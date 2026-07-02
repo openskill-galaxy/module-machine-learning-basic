@@ -1,0 +1,9882 @@
+[
+  {
+    "id": "ml-case-001",
+    "title": "房价预测案例1",
+    "description": "通过房价预测掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001696",
+      "ml-q-003106",
+      "ml-q-001621"
+    ],
+    "tags": [
+      "房价预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-002",
+    "title": "学生成绩预测案例2",
+    "description": "通过学生成绩预测掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000549",
+      "ml-q-000221",
+      "ml-q-000242"
+    ],
+    "tags": [
+      "学生成绩预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-003",
+    "title": "用户流失预测案例3",
+    "description": "通过用户流失预测掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001285",
+      "ml-q-003460",
+      "ml-q-003458"
+    ],
+    "tags": [
+      "用户流失预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-004",
+    "title": "垃圾邮件分类案例4",
+    "description": "通过垃圾邮件分类掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000528",
+      "ml-q-000747",
+      "ml-q-000118"
+    ],
+    "tags": [
+      "垃圾邮件分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-005",
+    "title": "鸢尾花分类案例5",
+    "description": "通过鸢尾花分类掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000745",
+      "ml-q-000211",
+      "ml-q-000707"
+    ],
+    "tags": [
+      "鸢尾花分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-006",
+    "title": "信用风险分类案例6",
+    "description": "通过信用风险分类掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000827",
+      "ml-q-001788",
+      "ml-q-002618"
+    ],
+    "tags": [
+      "信用风险分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-007",
+    "title": "销售预测案例7",
+    "description": "通过销售预测掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001386",
+      "ml-q-000161",
+      "ml-q-001231"
+    ],
+    "tags": [
+      "销售预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-008",
+    "title": "异常检测案例8",
+    "description": "通过异常检测掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002694",
+      "ml-q-001433",
+      "ml-q-002470"
+    ],
+    "tags": [
+      "异常检测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-009",
+    "title": "客户聚类案例9",
+    "description": "通过客户聚类掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001939",
+      "ml-q-002725",
+      "ml-q-002923"
+    ],
+    "tags": [
+      "客户聚类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-010",
+    "title": "商品聚类案例10",
+    "description": "通过商品聚类掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001608",
+      "ml-q-001732",
+      "ml-q-003185"
+    ],
+    "tags": [
+      "商品聚类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-011",
+    "title": "PCA可视化案例11",
+    "description": "通过PCA可视化掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002030",
+      "ml-q-002445",
+      "ml-q-002382"
+    ],
+    "tags": [
+      "PCA可视化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-012",
+    "title": "模型评估案例12",
+    "description": "通过模型评估掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001660",
+      "ml-q-000231",
+      "ml-q-003461"
+    ],
+    "tags": [
+      "模型评估"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-013",
+    "title": "过拟合修复案例13",
+    "description": "通过过拟合修复掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002546",
+      "ml-q-002117",
+      "ml-q-003545"
+    ],
+    "tags": [
+      "过拟合修复"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-014",
+    "title": "特征工程案例14",
+    "description": "通过特征工程掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001954",
+      "ml-q-000458",
+      "ml-q-002016"
+    ],
+    "tags": [
+      "特征工程"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-015",
+    "title": "网格搜索案例15",
+    "description": "通过网格搜索掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000008",
+      "ml-q-003248",
+      "ml-q-002361"
+    ],
+    "tags": [
+      "网格搜索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-016",
+    "title": "ML面试案例16",
+    "description": "通过ML面试掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000819",
+      "ml-q-003190",
+      "ml-q-000397"
+    ],
+    "tags": [
+      "ML面试"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-017",
+    "title": "房价预测案例17",
+    "description": "通过房价预测掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001295",
+      "ml-q-003666",
+      "ml-q-002234"
+    ],
+    "tags": [
+      "房价预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-018",
+    "title": "学生成绩预测案例18",
+    "description": "通过学生成绩预测掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-003134",
+      "ml-q-002087",
+      "ml-q-002084"
+    ],
+    "tags": [
+      "学生成绩预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-019",
+    "title": "用户流失预测案例19",
+    "description": "通过用户流失预测掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002997",
+      "ml-q-002199",
+      "ml-q-002778"
+    ],
+    "tags": [
+      "用户流失预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-020",
+    "title": "垃圾邮件分类案例20",
+    "description": "通过垃圾邮件分类掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001909",
+      "ml-q-003467",
+      "ml-q-000629"
+    ],
+    "tags": [
+      "垃圾邮件分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-021",
+    "title": "鸢尾花分类案例21",
+    "description": "通过鸢尾花分类掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002930",
+      "ml-q-000732",
+      "ml-q-002168"
+    ],
+    "tags": [
+      "鸢尾花分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-022",
+    "title": "信用风险分类案例22",
+    "description": "通过信用风险分类掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000430",
+      "ml-q-002490",
+      "ml-q-001056"
+    ],
+    "tags": [
+      "信用风险分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-023",
+    "title": "销售预测案例23",
+    "description": "通过销售预测掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001901",
+      "ml-q-002641",
+      "ml-q-001381"
+    ],
+    "tags": [
+      "销售预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-024",
+    "title": "异常检测案例24",
+    "description": "通过异常检测掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000184",
+      "ml-q-003443",
+      "ml-q-000847"
+    ],
+    "tags": [
+      "异常检测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-025",
+    "title": "客户聚类案例25",
+    "description": "通过客户聚类掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000097",
+      "ml-q-000215",
+      "ml-q-002812"
+    ],
+    "tags": [
+      "客户聚类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-026",
+    "title": "商品聚类案例26",
+    "description": "通过商品聚类掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-003554",
+      "ml-q-003374",
+      "ml-q-003271"
+    ],
+    "tags": [
+      "商品聚类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-027",
+    "title": "PCA可视化案例27",
+    "description": "通过PCA可视化掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000434",
+      "ml-q-002808",
+      "ml-q-000677"
+    ],
+    "tags": [
+      "PCA可视化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-028",
+    "title": "模型评估案例28",
+    "description": "通过模型评估掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000964",
+      "ml-q-001424",
+      "ml-q-003114"
+    ],
+    "tags": [
+      "模型评估"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-029",
+    "title": "过拟合修复案例29",
+    "description": "通过过拟合修复掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000088",
+      "ml-q-003365",
+      "ml-q-000272"
+    ],
+    "tags": [
+      "过拟合修复"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-030",
+    "title": "特征工程案例30",
+    "description": "通过特征工程掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002187",
+      "ml-q-002652",
+      "ml-q-003494"
+    ],
+    "tags": [
+      "特征工程"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-031",
+    "title": "网格搜索案例31",
+    "description": "通过网格搜索掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002094",
+      "ml-q-002692",
+      "ml-q-002447"
+    ],
+    "tags": [
+      "网格搜索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-032",
+    "title": "ML面试案例32",
+    "description": "通过ML面试掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002128",
+      "ml-q-001278",
+      "ml-q-002618"
+    ],
+    "tags": [
+      "ML面试"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-033",
+    "title": "房价预测案例33",
+    "description": "通过房价预测掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000026",
+      "ml-q-000238",
+      "ml-q-000349"
+    ],
+    "tags": [
+      "房价预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-034",
+    "title": "学生成绩预测案例34",
+    "description": "通过学生成绩预测掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002266",
+      "ml-q-003520",
+      "ml-q-000812"
+    ],
+    "tags": [
+      "学生成绩预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-035",
+    "title": "用户流失预测案例35",
+    "description": "通过用户流失预测掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001602",
+      "ml-q-000309",
+      "ml-q-000002"
+    ],
+    "tags": [
+      "用户流失预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-036",
+    "title": "垃圾邮件分类案例36",
+    "description": "通过垃圾邮件分类掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001205",
+      "ml-q-003446",
+      "ml-q-002715"
+    ],
+    "tags": [
+      "垃圾邮件分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-037",
+    "title": "鸢尾花分类案例37",
+    "description": "通过鸢尾花分类掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001073",
+      "ml-q-003436",
+      "ml-q-000157"
+    ],
+    "tags": [
+      "鸢尾花分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-038",
+    "title": "信用风险分类案例38",
+    "description": "通过信用风险分类掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002600",
+      "ml-q-001339",
+      "ml-q-001107"
+    ],
+    "tags": [
+      "信用风险分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-039",
+    "title": "销售预测案例39",
+    "description": "通过销售预测掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001884",
+      "ml-q-001380",
+      "ml-q-003339"
+    ],
+    "tags": [
+      "销售预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-040",
+    "title": "异常检测案例40",
+    "description": "通过异常检测掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000498",
+      "ml-q-002514",
+      "ml-q-002878"
+    ],
+    "tags": [
+      "异常检测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-041",
+    "title": "客户聚类案例41",
+    "description": "通过客户聚类掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-003425",
+      "ml-q-000747",
+      "ml-q-000849"
+    ],
+    "tags": [
+      "客户聚类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-042",
+    "title": "商品聚类案例42",
+    "description": "通过商品聚类掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-003516",
+      "ml-q-000047",
+      "ml-q-000087"
+    ],
+    "tags": [
+      "商品聚类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-043",
+    "title": "PCA可视化案例43",
+    "description": "通过PCA可视化掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001111",
+      "ml-q-000876",
+      "ml-q-001451"
+    ],
+    "tags": [
+      "PCA可视化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-044",
+    "title": "模型评估案例44",
+    "description": "通过模型评估掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001598",
+      "ml-q-001539",
+      "ml-q-002142"
+    ],
+    "tags": [
+      "模型评估"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-045",
+    "title": "过拟合修复案例45",
+    "description": "通过过拟合修复掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002740",
+      "ml-q-001478",
+      "ml-q-002766"
+    ],
+    "tags": [
+      "过拟合修复"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-046",
+    "title": "特征工程案例46",
+    "description": "通过特征工程掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000124",
+      "ml-q-002944",
+      "ml-q-003673"
+    ],
+    "tags": [
+      "特征工程"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-047",
+    "title": "网格搜索案例47",
+    "description": "通过网格搜索掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001163",
+      "ml-q-001255",
+      "ml-q-002699"
+    ],
+    "tags": [
+      "网格搜索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-048",
+    "title": "ML面试案例48",
+    "description": "通过ML面试掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000496",
+      "ml-q-001592",
+      "ml-q-003598"
+    ],
+    "tags": [
+      "ML面试"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-049",
+    "title": "房价预测案例49",
+    "description": "通过房价预测掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002250",
+      "ml-q-000973",
+      "ml-q-002428"
+    ],
+    "tags": [
+      "房价预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-050",
+    "title": "学生成绩预测案例50",
+    "description": "通过学生成绩预测掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002794",
+      "ml-q-002597",
+      "ml-q-001450"
+    ],
+    "tags": [
+      "学生成绩预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-051",
+    "title": "用户流失预测案例51",
+    "description": "通过用户流失预测掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001024",
+      "ml-q-000455",
+      "ml-q-003618"
+    ],
+    "tags": [
+      "用户流失预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-052",
+    "title": "垃圾邮件分类案例52",
+    "description": "通过垃圾邮件分类掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002760",
+      "ml-q-000567",
+      "ml-q-003667"
+    ],
+    "tags": [
+      "垃圾邮件分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-053",
+    "title": "鸢尾花分类案例53",
+    "description": "通过鸢尾花分类掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001768",
+      "ml-q-001792",
+      "ml-q-002866"
+    ],
+    "tags": [
+      "鸢尾花分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-054",
+    "title": "信用风险分类案例54",
+    "description": "通过信用风险分类掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002937",
+      "ml-q-003193",
+      "ml-q-001378"
+    ],
+    "tags": [
+      "信用风险分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-055",
+    "title": "销售预测案例55",
+    "description": "通过销售预测掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-003676",
+      "ml-q-002241",
+      "ml-q-000681"
+    ],
+    "tags": [
+      "销售预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-056",
+    "title": "异常检测案例56",
+    "description": "通过异常检测掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-003518",
+      "ml-q-003256",
+      "ml-q-002487"
+    ],
+    "tags": [
+      "异常检测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-057",
+    "title": "客户聚类案例57",
+    "description": "通过客户聚类掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002481",
+      "ml-q-003619",
+      "ml-q-000468"
+    ],
+    "tags": [
+      "客户聚类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-058",
+    "title": "商品聚类案例58",
+    "description": "通过商品聚类掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002518",
+      "ml-q-002153",
+      "ml-q-003361"
+    ],
+    "tags": [
+      "商品聚类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-059",
+    "title": "PCA可视化案例59",
+    "description": "通过PCA可视化掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-003077",
+      "ml-q-000205",
+      "ml-q-001240"
+    ],
+    "tags": [
+      "PCA可视化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-060",
+    "title": "模型评估案例60",
+    "description": "通过模型评估掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002973",
+      "ml-q-000428",
+      "ml-q-000769"
+    ],
+    "tags": [
+      "模型评估"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-061",
+    "title": "过拟合修复案例61",
+    "description": "通过过拟合修复掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001539",
+      "ml-q-001241",
+      "ml-q-000044"
+    ],
+    "tags": [
+      "过拟合修复"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-062",
+    "title": "特征工程案例62",
+    "description": "通过特征工程掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001983",
+      "ml-q-003436",
+      "ml-q-001350"
+    ],
+    "tags": [
+      "特征工程"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-063",
+    "title": "网格搜索案例63",
+    "description": "通过网格搜索掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000518",
+      "ml-q-001963",
+      "ml-q-001751"
+    ],
+    "tags": [
+      "网格搜索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-064",
+    "title": "ML面试案例64",
+    "description": "通过ML面试掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001376",
+      "ml-q-000349",
+      "ml-q-003552"
+    ],
+    "tags": [
+      "ML面试"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-065",
+    "title": "房价预测案例65",
+    "description": "通过房价预测掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-003362",
+      "ml-q-001175",
+      "ml-q-000221"
+    ],
+    "tags": [
+      "房价预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-066",
+    "title": "学生成绩预测案例66",
+    "description": "通过学生成绩预测掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002852",
+      "ml-q-001152",
+      "ml-q-001309"
+    ],
+    "tags": [
+      "学生成绩预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-067",
+    "title": "用户流失预测案例67",
+    "description": "通过用户流失预测掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-003599",
+      "ml-q-001299",
+      "ml-q-000906"
+    ],
+    "tags": [
+      "用户流失预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-068",
+    "title": "垃圾邮件分类案例68",
+    "description": "通过垃圾邮件分类掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000860",
+      "ml-q-002989",
+      "ml-q-000016"
+    ],
+    "tags": [
+      "垃圾邮件分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-069",
+    "title": "鸢尾花分类案例69",
+    "description": "通过鸢尾花分类掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001386",
+      "ml-q-003093",
+      "ml-q-001378"
+    ],
+    "tags": [
+      "鸢尾花分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-070",
+    "title": "信用风险分类案例70",
+    "description": "通过信用风险分类掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001673",
+      "ml-q-000753",
+      "ml-q-003110"
+    ],
+    "tags": [
+      "信用风险分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-071",
+    "title": "销售预测案例71",
+    "description": "通过销售预测掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000891",
+      "ml-q-003324",
+      "ml-q-001862"
+    ],
+    "tags": [
+      "销售预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-072",
+    "title": "异常检测案例72",
+    "description": "通过异常检测掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002001",
+      "ml-q-002991",
+      "ml-q-002044"
+    ],
+    "tags": [
+      "异常检测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-073",
+    "title": "客户聚类案例73",
+    "description": "通过客户聚类掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001935",
+      "ml-q-000022",
+      "ml-q-001665"
+    ],
+    "tags": [
+      "客户聚类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-074",
+    "title": "商品聚类案例74",
+    "description": "通过商品聚类掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000400",
+      "ml-q-000162",
+      "ml-q-003396"
+    ],
+    "tags": [
+      "商品聚类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-075",
+    "title": "PCA可视化案例75",
+    "description": "通过PCA可视化掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000988",
+      "ml-q-002092",
+      "ml-q-000116"
+    ],
+    "tags": [
+      "PCA可视化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-076",
+    "title": "模型评估案例76",
+    "description": "通过模型评估掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-003233",
+      "ml-q-001905",
+      "ml-q-002495"
+    ],
+    "tags": [
+      "模型评估"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-077",
+    "title": "过拟合修复案例77",
+    "description": "通过过拟合修复掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000085",
+      "ml-q-002350",
+      "ml-q-001638"
+    ],
+    "tags": [
+      "过拟合修复"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-078",
+    "title": "特征工程案例78",
+    "description": "通过特征工程掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002994",
+      "ml-q-000282",
+      "ml-q-003629"
+    ],
+    "tags": [
+      "特征工程"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-079",
+    "title": "网格搜索案例79",
+    "description": "通过网格搜索掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000956",
+      "ml-q-000251",
+      "ml-q-001351"
+    ],
+    "tags": [
+      "网格搜索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-080",
+    "title": "ML面试案例80",
+    "description": "通过ML面试掌握ML",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000699",
+      "ml-q-002985",
+      "ml-q-003213"
+    ],
+    "tags": [
+      "ML面试"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-081",
+    "title": "房价预测案例81",
+    "description": "通过房价预测掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001339",
+      "ml-q-001742",
+      "ml-q-002360"
+    ],
+    "tags": [
+      "房价预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-082",
+    "title": "学生成绩预测案例82",
+    "description": "通过学生成绩预测掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002774",
+      "ml-q-001225",
+      "ml-q-003147"
+    ],
+    "tags": [
+      "学生成绩预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-083",
+    "title": "用户流失预测案例83",
+    "description": "通过用户流失预测掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001134",
+      "ml-q-001345",
+      "ml-q-002895"
+    ],
+    "tags": [
+      "用户流失预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-084",
+    "title": "垃圾邮件分类案例84",
+    "description": "通过垃圾邮件分类掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001111",
+      "ml-q-002190",
+      "ml-q-000127"
+    ],
+    "tags": [
+      "垃圾邮件分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-085",
+    "title": "鸢尾花分类案例85",
+    "description": "通过鸢尾花分类掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002935",
+      "ml-q-000712",
+      "ml-q-001888"
+    ],
+    "tags": [
+      "鸢尾花分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-086",
+    "title": "信用风险分类案例86",
+    "description": "通过信用风险分类掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001023",
+      "ml-q-002498",
+      "ml-q-001880"
+    ],
+    "tags": [
+      "信用风险分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-087",
+    "title": "销售预测案例87",
+    "description": "通过销售预测掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002780",
+      "ml-q-001970",
+      "ml-q-001300"
+    ],
+    "tags": [
+      "销售预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-088",
+    "title": "异常检测案例88",
+    "description": "通过异常检测掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000145",
+      "ml-q-001095",
+      "ml-q-001635"
+    ],
+    "tags": [
+      "异常检测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-089",
+    "title": "客户聚类案例89",
+    "description": "通过客户聚类掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002606",
+      "ml-q-001164",
+      "ml-q-002698"
+    ],
+    "tags": [
+      "客户聚类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-090",
+    "title": "商品聚类案例90",
+    "description": "通过商品聚类掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001728",
+      "ml-q-000553",
+      "ml-q-000754"
+    ],
+    "tags": [
+      "商品聚类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-091",
+    "title": "PCA可视化案例91",
+    "description": "通过PCA可视化掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000873",
+      "ml-q-001439",
+      "ml-q-002576"
+    ],
+    "tags": [
+      "PCA可视化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-092",
+    "title": "模型评估案例92",
+    "description": "通过模型评估掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-003268",
+      "ml-q-000759",
+      "ml-q-000617"
+    ],
+    "tags": [
+      "模型评估"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-093",
+    "title": "过拟合修复案例93",
+    "description": "通过过拟合修复掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000602",
+      "ml-q-002449",
+      "ml-q-001605"
+    ],
+    "tags": [
+      "过拟合修复"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-094",
+    "title": "特征工程案例94",
+    "description": "通过特征工程掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001144",
+      "ml-q-002881",
+      "ml-q-001888"
+    ],
+    "tags": [
+      "特征工程"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-095",
+    "title": "网格搜索案例95",
+    "description": "通过网格搜索掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000792",
+      "ml-q-003097",
+      "ml-q-003330"
+    ],
+    "tags": [
+      "网格搜索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-096",
+    "title": "ML面试案例96",
+    "description": "通过ML面试掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-003524",
+      "ml-q-002949",
+      "ml-q-001995"
+    ],
+    "tags": [
+      "ML面试"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-097",
+    "title": "房价预测案例97",
+    "description": "通过房价预测掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000853",
+      "ml-q-000124",
+      "ml-q-002834"
+    ],
+    "tags": [
+      "房价预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-098",
+    "title": "学生成绩预测案例98",
+    "description": "通过学生成绩预测掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002683",
+      "ml-q-003449",
+      "ml-q-002625"
+    ],
+    "tags": [
+      "学生成绩预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-099",
+    "title": "用户流失预测案例99",
+    "description": "通过用户流失预测掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002222",
+      "ml-q-001070",
+      "ml-q-001882"
+    ],
+    "tags": [
+      "用户流失预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-100",
+    "title": "垃圾邮件分类案例100",
+    "description": "通过垃圾邮件分类掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-003511",
+      "ml-q-000009",
+      "ml-q-002983"
+    ],
+    "tags": [
+      "垃圾邮件分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-101",
+    "title": "鸢尾花分类案例101",
+    "description": "通过鸢尾花分类掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000331",
+      "ml-q-002192",
+      "ml-q-002145"
+    ],
+    "tags": [
+      "鸢尾花分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-102",
+    "title": "信用风险分类案例102",
+    "description": "通过信用风险分类掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000141",
+      "ml-q-003197",
+      "ml-q-003441"
+    ],
+    "tags": [
+      "信用风险分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-103",
+    "title": "销售预测案例103",
+    "description": "通过销售预测掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000983",
+      "ml-q-003068",
+      "ml-q-002232"
+    ],
+    "tags": [
+      "销售预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-104",
+    "title": "异常检测案例104",
+    "description": "通过异常检测掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-003317",
+      "ml-q-002224",
+      "ml-q-002142"
+    ],
+    "tags": [
+      "异常检测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-105",
+    "title": "客户聚类案例105",
+    "description": "通过客户聚类掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000385",
+      "ml-q-003170",
+      "ml-q-002499"
+    ],
+    "tags": [
+      "客户聚类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-106",
+    "title": "商品聚类案例106",
+    "description": "通过商品聚类掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000699",
+      "ml-q-002412",
+      "ml-q-000376"
+    ],
+    "tags": [
+      "商品聚类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-107",
+    "title": "PCA可视化案例107",
+    "description": "通过PCA可视化掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002503",
+      "ml-q-001825",
+      "ml-q-003475"
+    ],
+    "tags": [
+      "PCA可视化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-108",
+    "title": "模型评估案例108",
+    "description": "通过模型评估掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-003544",
+      "ml-q-002083",
+      "ml-q-000509"
+    ],
+    "tags": [
+      "模型评估"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-109",
+    "title": "过拟合修复案例109",
+    "description": "通过过拟合修复掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001756",
+      "ml-q-000626",
+      "ml-q-000035"
+    ],
+    "tags": [
+      "过拟合修复"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-110",
+    "title": "特征工程案例110",
+    "description": "通过特征工程掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002357",
+      "ml-q-000204",
+      "ml-q-000471"
+    ],
+    "tags": [
+      "特征工程"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-111",
+    "title": "网格搜索案例111",
+    "description": "通过网格搜索掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001264",
+      "ml-q-000219",
+      "ml-q-000009"
+    ],
+    "tags": [
+      "网格搜索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-112",
+    "title": "ML面试案例112",
+    "description": "通过ML面试掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000809",
+      "ml-q-000813",
+      "ml-q-003249"
+    ],
+    "tags": [
+      "ML面试"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-113",
+    "title": "房价预测案例113",
+    "description": "通过房价预测掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-003396",
+      "ml-q-001690",
+      "ml-q-000565"
+    ],
+    "tags": [
+      "房价预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-114",
+    "title": "学生成绩预测案例114",
+    "description": "通过学生成绩预测掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000036",
+      "ml-q-000667",
+      "ml-q-001833"
+    ],
+    "tags": [
+      "学生成绩预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-115",
+    "title": "用户流失预测案例115",
+    "description": "通过用户流失预测掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000276",
+      "ml-q-003263",
+      "ml-q-000144"
+    ],
+    "tags": [
+      "用户流失预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-116",
+    "title": "垃圾邮件分类案例116",
+    "description": "通过垃圾邮件分类掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000630",
+      "ml-q-002429",
+      "ml-q-000880"
+    ],
+    "tags": [
+      "垃圾邮件分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-117",
+    "title": "鸢尾花分类案例117",
+    "description": "通过鸢尾花分类掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002956",
+      "ml-q-000190",
+      "ml-q-000016"
+    ],
+    "tags": [
+      "鸢尾花分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-118",
+    "title": "信用风险分类案例118",
+    "description": "通过信用风险分类掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002027",
+      "ml-q-001339",
+      "ml-q-001168"
+    ],
+    "tags": [
+      "信用风险分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-119",
+    "title": "销售预测案例119",
+    "description": "通过销售预测掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002286",
+      "ml-q-001446",
+      "ml-q-003608"
+    ],
+    "tags": [
+      "销售预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-120",
+    "title": "异常检测案例120",
+    "description": "通过异常检测掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000465",
+      "ml-q-003595",
+      "ml-q-000178"
+    ],
+    "tags": [
+      "异常检测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-121",
+    "title": "客户聚类案例121",
+    "description": "通过客户聚类掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001105",
+      "ml-q-000837",
+      "ml-q-000496"
+    ],
+    "tags": [
+      "客户聚类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-122",
+    "title": "商品聚类案例122",
+    "description": "通过商品聚类掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002752",
+      "ml-q-003169",
+      "ml-q-001794"
+    ],
+    "tags": [
+      "商品聚类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-123",
+    "title": "PCA可视化案例123",
+    "description": "通过PCA可视化掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000283",
+      "ml-q-003203",
+      "ml-q-002705"
+    ],
+    "tags": [
+      "PCA可视化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-124",
+    "title": "模型评估案例124",
+    "description": "通过模型评估掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-003523",
+      "ml-q-001765",
+      "ml-q-003156"
+    ],
+    "tags": [
+      "模型评估"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-125",
+    "title": "过拟合修复案例125",
+    "description": "通过过拟合修复掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001655",
+      "ml-q-000336",
+      "ml-q-000179"
+    ],
+    "tags": [
+      "过拟合修复"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-126",
+    "title": "特征工程案例126",
+    "description": "通过特征工程掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000462",
+      "ml-q-000511",
+      "ml-q-000405"
+    ],
+    "tags": [
+      "特征工程"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-127",
+    "title": "网格搜索案例127",
+    "description": "通过网格搜索掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000842",
+      "ml-q-003615",
+      "ml-q-000384"
+    ],
+    "tags": [
+      "网格搜索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-128",
+    "title": "ML面试案例128",
+    "description": "通过ML面试掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002496",
+      "ml-q-003646",
+      "ml-q-002997"
+    ],
+    "tags": [
+      "ML面试"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-129",
+    "title": "房价预测案例129",
+    "description": "通过房价预测掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002776",
+      "ml-q-000339",
+      "ml-q-001338"
+    ],
+    "tags": [
+      "房价预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-130",
+    "title": "学生成绩预测案例130",
+    "description": "通过学生成绩预测掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000465",
+      "ml-q-001170",
+      "ml-q-001710"
+    ],
+    "tags": [
+      "学生成绩预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-131",
+    "title": "用户流失预测案例131",
+    "description": "通过用户流失预测掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001550",
+      "ml-q-002740",
+      "ml-q-002398"
+    ],
+    "tags": [
+      "用户流失预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-132",
+    "title": "垃圾邮件分类案例132",
+    "description": "通过垃圾邮件分类掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-003207",
+      "ml-q-001981",
+      "ml-q-002819"
+    ],
+    "tags": [
+      "垃圾邮件分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-133",
+    "title": "鸢尾花分类案例133",
+    "description": "通过鸢尾花分类掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002950",
+      "ml-q-001755",
+      "ml-q-000993"
+    ],
+    "tags": [
+      "鸢尾花分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-134",
+    "title": "信用风险分类案例134",
+    "description": "通过信用风险分类掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-003281",
+      "ml-q-001036",
+      "ml-q-001002"
+    ],
+    "tags": [
+      "信用风险分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-135",
+    "title": "销售预测案例135",
+    "description": "通过销售预测掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002807",
+      "ml-q-003157",
+      "ml-q-000541"
+    ],
+    "tags": [
+      "销售预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-136",
+    "title": "异常检测案例136",
+    "description": "通过异常检测掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002517",
+      "ml-q-001440",
+      "ml-q-001118"
+    ],
+    "tags": [
+      "异常检测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-137",
+    "title": "客户聚类案例137",
+    "description": "通过客户聚类掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002389",
+      "ml-q-000691",
+      "ml-q-002614"
+    ],
+    "tags": [
+      "客户聚类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-138",
+    "title": "商品聚类案例138",
+    "description": "通过商品聚类掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000381",
+      "ml-q-001011",
+      "ml-q-000768"
+    ],
+    "tags": [
+      "商品聚类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-139",
+    "title": "PCA可视化案例139",
+    "description": "通过PCA可视化掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001606",
+      "ml-q-003482",
+      "ml-q-000915"
+    ],
+    "tags": [
+      "PCA可视化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-140",
+    "title": "模型评估案例140",
+    "description": "通过模型评估掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-003190",
+      "ml-q-000880",
+      "ml-q-001106"
+    ],
+    "tags": [
+      "模型评估"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-141",
+    "title": "过拟合修复案例141",
+    "description": "通过过拟合修复掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001041",
+      "ml-q-000008",
+      "ml-q-002847"
+    ],
+    "tags": [
+      "过拟合修复"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-142",
+    "title": "特征工程案例142",
+    "description": "通过特征工程掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002278",
+      "ml-q-003001",
+      "ml-q-000944"
+    ],
+    "tags": [
+      "特征工程"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-143",
+    "title": "网格搜索案例143",
+    "description": "通过网格搜索掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000888",
+      "ml-q-001849",
+      "ml-q-003352"
+    ],
+    "tags": [
+      "网格搜索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-144",
+    "title": "ML面试案例144",
+    "description": "通过ML面试掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001480",
+      "ml-q-002072",
+      "ml-q-002983"
+    ],
+    "tags": [
+      "ML面试"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-145",
+    "title": "房价预测案例145",
+    "description": "通过房价预测掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000357",
+      "ml-q-000844",
+      "ml-q-000957"
+    ],
+    "tags": [
+      "房价预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-146",
+    "title": "学生成绩预测案例146",
+    "description": "通过学生成绩预测掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002211",
+      "ml-q-002193",
+      "ml-q-000036"
+    ],
+    "tags": [
+      "学生成绩预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-147",
+    "title": "用户流失预测案例147",
+    "description": "通过用户流失预测掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001499",
+      "ml-q-002768",
+      "ml-q-003161"
+    ],
+    "tags": [
+      "用户流失预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-148",
+    "title": "垃圾邮件分类案例148",
+    "description": "通过垃圾邮件分类掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-003469",
+      "ml-q-000006",
+      "ml-q-000971"
+    ],
+    "tags": [
+      "垃圾邮件分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-149",
+    "title": "鸢尾花分类案例149",
+    "description": "通过鸢尾花分类掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001770",
+      "ml-q-001520",
+      "ml-q-000641"
+    ],
+    "tags": [
+      "鸢尾花分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-150",
+    "title": "信用风险分类案例150",
+    "description": "通过信用风险分类掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001369",
+      "ml-q-003601",
+      "ml-q-000276"
+    ],
+    "tags": [
+      "信用风险分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-151",
+    "title": "销售预测案例151",
+    "description": "通过销售预测掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-003362",
+      "ml-q-002158",
+      "ml-q-003182"
+    ],
+    "tags": [
+      "销售预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-152",
+    "title": "异常检测案例152",
+    "description": "通过异常检测掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000062",
+      "ml-q-001344",
+      "ml-q-000684"
+    ],
+    "tags": [
+      "异常检测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-153",
+    "title": "客户聚类案例153",
+    "description": "通过客户聚类掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002873",
+      "ml-q-002281",
+      "ml-q-003118"
+    ],
+    "tags": [
+      "客户聚类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-154",
+    "title": "商品聚类案例154",
+    "description": "通过商品聚类掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000575",
+      "ml-q-002673",
+      "ml-q-000385"
+    ],
+    "tags": [
+      "商品聚类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-155",
+    "title": "PCA可视化案例155",
+    "description": "通过PCA可视化掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000159",
+      "ml-q-002816",
+      "ml-q-002888"
+    ],
+    "tags": [
+      "PCA可视化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-156",
+    "title": "模型评估案例156",
+    "description": "通过模型评估掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000620",
+      "ml-q-000998",
+      "ml-q-000887"
+    ],
+    "tags": [
+      "模型评估"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-157",
+    "title": "过拟合修复案例157",
+    "description": "通过过拟合修复掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000768",
+      "ml-q-001394",
+      "ml-q-002614"
+    ],
+    "tags": [
+      "过拟合修复"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-158",
+    "title": "特征工程案例158",
+    "description": "通过特征工程掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001679",
+      "ml-q-003021",
+      "ml-q-001082"
+    ],
+    "tags": [
+      "特征工程"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-159",
+    "title": "网格搜索案例159",
+    "description": "通过网格搜索掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000321",
+      "ml-q-002406",
+      "ml-q-003100"
+    ],
+    "tags": [
+      "网格搜索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-160",
+    "title": "ML面试案例160",
+    "description": "通过ML面试掌握ML",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002591",
+      "ml-q-002641",
+      "ml-q-001264"
+    ],
+    "tags": [
+      "ML面试"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-161",
+    "title": "房价预测案例161",
+    "description": "通过房价预测掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001403",
+      "ml-q-001827",
+      "ml-q-002379"
+    ],
+    "tags": [
+      "房价预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-162",
+    "title": "学生成绩预测案例162",
+    "description": "通过学生成绩预测掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000660",
+      "ml-q-001028",
+      "ml-q-002333"
+    ],
+    "tags": [
+      "学生成绩预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-163",
+    "title": "用户流失预测案例163",
+    "description": "通过用户流失预测掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002480",
+      "ml-q-001000",
+      "ml-q-000897"
+    ],
+    "tags": [
+      "用户流失预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-164",
+    "title": "垃圾邮件分类案例164",
+    "description": "通过垃圾邮件分类掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-003230",
+      "ml-q-001751",
+      "ml-q-000052"
+    ],
+    "tags": [
+      "垃圾邮件分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-165",
+    "title": "鸢尾花分类案例165",
+    "description": "通过鸢尾花分类掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000048",
+      "ml-q-000401",
+      "ml-q-000859"
+    ],
+    "tags": [
+      "鸢尾花分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-166",
+    "title": "信用风险分类案例166",
+    "description": "通过信用风险分类掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002280",
+      "ml-q-003214",
+      "ml-q-001217"
+    ],
+    "tags": [
+      "信用风险分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-167",
+    "title": "销售预测案例167",
+    "description": "通过销售预测掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002536",
+      "ml-q-000707",
+      "ml-q-002031"
+    ],
+    "tags": [
+      "销售预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-168",
+    "title": "异常检测案例168",
+    "description": "通过异常检测掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000157",
+      "ml-q-000911",
+      "ml-q-000374"
+    ],
+    "tags": [
+      "异常检测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-169",
+    "title": "客户聚类案例169",
+    "description": "通过客户聚类掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002875",
+      "ml-q-002048",
+      "ml-q-000459"
+    ],
+    "tags": [
+      "客户聚类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-170",
+    "title": "商品聚类案例170",
+    "description": "通过商品聚类掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000201",
+      "ml-q-002465",
+      "ml-q-001233"
+    ],
+    "tags": [
+      "商品聚类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-171",
+    "title": "PCA可视化案例171",
+    "description": "通过PCA可视化掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002693",
+      "ml-q-001593",
+      "ml-q-003600"
+    ],
+    "tags": [
+      "PCA可视化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-172",
+    "title": "模型评估案例172",
+    "description": "通过模型评估掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002853",
+      "ml-q-003146",
+      "ml-q-000607"
+    ],
+    "tags": [
+      "模型评估"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-173",
+    "title": "过拟合修复案例173",
+    "description": "通过过拟合修复掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-003239",
+      "ml-q-002030",
+      "ml-q-001174"
+    ],
+    "tags": [
+      "过拟合修复"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-174",
+    "title": "特征工程案例174",
+    "description": "通过特征工程掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000031",
+      "ml-q-002139",
+      "ml-q-002593"
+    ],
+    "tags": [
+      "特征工程"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-175",
+    "title": "网格搜索案例175",
+    "description": "通过网格搜索掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000422",
+      "ml-q-000954",
+      "ml-q-001960"
+    ],
+    "tags": [
+      "网格搜索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-176",
+    "title": "ML面试案例176",
+    "description": "通过ML面试掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-003650",
+      "ml-q-002798",
+      "ml-q-002370"
+    ],
+    "tags": [
+      "ML面试"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-177",
+    "title": "房价预测案例177",
+    "description": "通过房价预测掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-003454",
+      "ml-q-001129",
+      "ml-q-000583"
+    ],
+    "tags": [
+      "房价预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-178",
+    "title": "学生成绩预测案例178",
+    "description": "通过学生成绩预测掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002355",
+      "ml-q-000922",
+      "ml-q-001896"
+    ],
+    "tags": [
+      "学生成绩预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-179",
+    "title": "用户流失预测案例179",
+    "description": "通过用户流失预测掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002472",
+      "ml-q-001439",
+      "ml-q-001229"
+    ],
+    "tags": [
+      "用户流失预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-180",
+    "title": "垃圾邮件分类案例180",
+    "description": "通过垃圾邮件分类掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000393",
+      "ml-q-001253",
+      "ml-q-002103"
+    ],
+    "tags": [
+      "垃圾邮件分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-181",
+    "title": "鸢尾花分类案例181",
+    "description": "通过鸢尾花分类掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001985",
+      "ml-q-001841",
+      "ml-q-003166"
+    ],
+    "tags": [
+      "鸢尾花分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-182",
+    "title": "信用风险分类案例182",
+    "description": "通过信用风险分类掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000604",
+      "ml-q-001765",
+      "ml-q-003161"
+    ],
+    "tags": [
+      "信用风险分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-183",
+    "title": "销售预测案例183",
+    "description": "通过销售预测掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001272",
+      "ml-q-002499",
+      "ml-q-002326"
+    ],
+    "tags": [
+      "销售预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-184",
+    "title": "异常检测案例184",
+    "description": "通过异常检测掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000816",
+      "ml-q-003309",
+      "ml-q-001553"
+    ],
+    "tags": [
+      "异常检测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-185",
+    "title": "客户聚类案例185",
+    "description": "通过客户聚类掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-003123",
+      "ml-q-001591",
+      "ml-q-001013"
+    ],
+    "tags": [
+      "客户聚类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-186",
+    "title": "商品聚类案例186",
+    "description": "通过商品聚类掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001053",
+      "ml-q-002213",
+      "ml-q-001636"
+    ],
+    "tags": [
+      "商品聚类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-187",
+    "title": "PCA可视化案例187",
+    "description": "通过PCA可视化掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002975",
+      "ml-q-001065",
+      "ml-q-001317"
+    ],
+    "tags": [
+      "PCA可视化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-188",
+    "title": "模型评估案例188",
+    "description": "通过模型评估掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002019",
+      "ml-q-001537",
+      "ml-q-000190"
+    ],
+    "tags": [
+      "模型评估"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-189",
+    "title": "过拟合修复案例189",
+    "description": "通过过拟合修复掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001996",
+      "ml-q-002230",
+      "ml-q-003437"
+    ],
+    "tags": [
+      "过拟合修复"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-190",
+    "title": "特征工程案例190",
+    "description": "通过特征工程掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000856",
+      "ml-q-000467",
+      "ml-q-000137"
+    ],
+    "tags": [
+      "特征工程"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-191",
+    "title": "网格搜索案例191",
+    "description": "通过网格搜索掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-003318",
+      "ml-q-002165",
+      "ml-q-003256"
+    ],
+    "tags": [
+      "网格搜索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-192",
+    "title": "ML面试案例192",
+    "description": "通过ML面试掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001006",
+      "ml-q-000474",
+      "ml-q-003316"
+    ],
+    "tags": [
+      "ML面试"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-193",
+    "title": "房价预测案例193",
+    "description": "通过房价预测掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000022",
+      "ml-q-000794",
+      "ml-q-001651"
+    ],
+    "tags": [
+      "房价预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-194",
+    "title": "学生成绩预测案例194",
+    "description": "通过学生成绩预测掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000908",
+      "ml-q-002407",
+      "ml-q-002832"
+    ],
+    "tags": [
+      "学生成绩预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-195",
+    "title": "用户流失预测案例195",
+    "description": "通过用户流失预测掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002470",
+      "ml-q-001670",
+      "ml-q-003380"
+    ],
+    "tags": [
+      "用户流失预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-196",
+    "title": "垃圾邮件分类案例196",
+    "description": "通过垃圾邮件分类掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000898",
+      "ml-q-001479",
+      "ml-q-001432"
+    ],
+    "tags": [
+      "垃圾邮件分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-197",
+    "title": "鸢尾花分类案例197",
+    "description": "通过鸢尾花分类掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001306",
+      "ml-q-002563",
+      "ml-q-002284"
+    ],
+    "tags": [
+      "鸢尾花分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-198",
+    "title": "信用风险分类案例198",
+    "description": "通过信用风险分类掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002495",
+      "ml-q-002690",
+      "ml-q-001234"
+    ],
+    "tags": [
+      "信用风险分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-199",
+    "title": "销售预测案例199",
+    "description": "通过销售预测掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001237",
+      "ml-q-003481",
+      "ml-q-000860"
+    ],
+    "tags": [
+      "销售预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-200",
+    "title": "异常检测案例200",
+    "description": "通过异常检测掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001123",
+      "ml-q-002887",
+      "ml-q-000339"
+    ],
+    "tags": [
+      "异常检测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-201",
+    "title": "客户聚类案例201",
+    "description": "通过客户聚类掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000578",
+      "ml-q-001715",
+      "ml-q-003641"
+    ],
+    "tags": [
+      "客户聚类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-202",
+    "title": "商品聚类案例202",
+    "description": "通过商品聚类掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002024",
+      "ml-q-003329",
+      "ml-q-000156"
+    ],
+    "tags": [
+      "商品聚类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-203",
+    "title": "PCA可视化案例203",
+    "description": "通过PCA可视化掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001474",
+      "ml-q-003647",
+      "ml-q-001158"
+    ],
+    "tags": [
+      "PCA可视化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-204",
+    "title": "模型评估案例204",
+    "description": "通过模型评估掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000655",
+      "ml-q-003449",
+      "ml-q-002183"
+    ],
+    "tags": [
+      "模型评估"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-205",
+    "title": "过拟合修复案例205",
+    "description": "通过过拟合修复掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000377",
+      "ml-q-000220",
+      "ml-q-000254"
+    ],
+    "tags": [
+      "过拟合修复"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-206",
+    "title": "特征工程案例206",
+    "description": "通过特征工程掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-003279",
+      "ml-q-003256",
+      "ml-q-001883"
+    ],
+    "tags": [
+      "特征工程"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-207",
+    "title": "网格搜索案例207",
+    "description": "通过网格搜索掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002620",
+      "ml-q-003486",
+      "ml-q-000738"
+    ],
+    "tags": [
+      "网格搜索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-208",
+    "title": "ML面试案例208",
+    "description": "通过ML面试掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002074",
+      "ml-q-000346",
+      "ml-q-003263"
+    ],
+    "tags": [
+      "ML面试"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-209",
+    "title": "房价预测案例209",
+    "description": "通过房价预测掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001223",
+      "ml-q-003280",
+      "ml-q-002704"
+    ],
+    "tags": [
+      "房价预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-210",
+    "title": "学生成绩预测案例210",
+    "description": "通过学生成绩预测掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001020",
+      "ml-q-002217",
+      "ml-q-002678"
+    ],
+    "tags": [
+      "学生成绩预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-211",
+    "title": "用户流失预测案例211",
+    "description": "通过用户流失预测掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001979",
+      "ml-q-001759",
+      "ml-q-003423"
+    ],
+    "tags": [
+      "用户流失预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-212",
+    "title": "垃圾邮件分类案例212",
+    "description": "通过垃圾邮件分类掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000786",
+      "ml-q-003058",
+      "ml-q-002078"
+    ],
+    "tags": [
+      "垃圾邮件分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-213",
+    "title": "鸢尾花分类案例213",
+    "description": "通过鸢尾花分类掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002335",
+      "ml-q-003383",
+      "ml-q-000045"
+    ],
+    "tags": [
+      "鸢尾花分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-214",
+    "title": "信用风险分类案例214",
+    "description": "通过信用风险分类掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001509",
+      "ml-q-003263",
+      "ml-q-001488"
+    ],
+    "tags": [
+      "信用风险分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-215",
+    "title": "销售预测案例215",
+    "description": "通过销售预测掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002294",
+      "ml-q-001671",
+      "ml-q-003095"
+    ],
+    "tags": [
+      "销售预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-216",
+    "title": "异常检测案例216",
+    "description": "通过异常检测掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001695",
+      "ml-q-003538",
+      "ml-q-003102"
+    ],
+    "tags": [
+      "异常检测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-217",
+    "title": "客户聚类案例217",
+    "description": "通过客户聚类掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-003106",
+      "ml-q-002350",
+      "ml-q-001414"
+    ],
+    "tags": [
+      "客户聚类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-218",
+    "title": "商品聚类案例218",
+    "description": "通过商品聚类掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002093",
+      "ml-q-002693",
+      "ml-q-001853"
+    ],
+    "tags": [
+      "商品聚类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-219",
+    "title": "PCA可视化案例219",
+    "description": "通过PCA可视化掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000816",
+      "ml-q-001448",
+      "ml-q-002518"
+    ],
+    "tags": [
+      "PCA可视化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-220",
+    "title": "模型评估案例220",
+    "description": "通过模型评估掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000529",
+      "ml-q-000459",
+      "ml-q-000162"
+    ],
+    "tags": [
+      "模型评估"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-221",
+    "title": "过拟合修复案例221",
+    "description": "通过过拟合修复掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000132",
+      "ml-q-003290",
+      "ml-q-000267"
+    ],
+    "tags": [
+      "过拟合修复"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-222",
+    "title": "特征工程案例222",
+    "description": "通过特征工程掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000504",
+      "ml-q-003016",
+      "ml-q-003579"
+    ],
+    "tags": [
+      "特征工程"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-223",
+    "title": "网格搜索案例223",
+    "description": "通过网格搜索掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000072",
+      "ml-q-000409",
+      "ml-q-001720"
+    ],
+    "tags": [
+      "网格搜索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-224",
+    "title": "ML面试案例224",
+    "description": "通过ML面试掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001070",
+      "ml-q-001371",
+      "ml-q-000952"
+    ],
+    "tags": [
+      "ML面试"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-225",
+    "title": "房价预测案例225",
+    "description": "通过房价预测掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000140",
+      "ml-q-003150",
+      "ml-q-000589"
+    ],
+    "tags": [
+      "房价预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-226",
+    "title": "学生成绩预测案例226",
+    "description": "通过学生成绩预测掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001158",
+      "ml-q-002227",
+      "ml-q-000901"
+    ],
+    "tags": [
+      "学生成绩预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-227",
+    "title": "用户流失预测案例227",
+    "description": "通过用户流失预测掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002436",
+      "ml-q-000887",
+      "ml-q-003530"
+    ],
+    "tags": [
+      "用户流失预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-228",
+    "title": "垃圾邮件分类案例228",
+    "description": "通过垃圾邮件分类掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000534",
+      "ml-q-001654",
+      "ml-q-003173"
+    ],
+    "tags": [
+      "垃圾邮件分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-229",
+    "title": "鸢尾花分类案例229",
+    "description": "通过鸢尾花分类掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-003287",
+      "ml-q-001912",
+      "ml-q-003686"
+    ],
+    "tags": [
+      "鸢尾花分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-230",
+    "title": "信用风险分类案例230",
+    "description": "通过信用风险分类掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000514",
+      "ml-q-001572",
+      "ml-q-001315"
+    ],
+    "tags": [
+      "信用风险分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-231",
+    "title": "销售预测案例231",
+    "description": "通过销售预测掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001137",
+      "ml-q-000642",
+      "ml-q-003249"
+    ],
+    "tags": [
+      "销售预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-232",
+    "title": "异常检测案例232",
+    "description": "通过异常检测掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002828",
+      "ml-q-001184",
+      "ml-q-003240"
+    ],
+    "tags": [
+      "异常检测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-233",
+    "title": "客户聚类案例233",
+    "description": "通过客户聚类掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-003376",
+      "ml-q-002527",
+      "ml-q-000610"
+    ],
+    "tags": [
+      "客户聚类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-234",
+    "title": "商品聚类案例234",
+    "description": "通过商品聚类掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-003176",
+      "ml-q-001515",
+      "ml-q-003310"
+    ],
+    "tags": [
+      "商品聚类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-235",
+    "title": "PCA可视化案例235",
+    "description": "通过PCA可视化掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002790",
+      "ml-q-001213",
+      "ml-q-003246"
+    ],
+    "tags": [
+      "PCA可视化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-236",
+    "title": "模型评估案例236",
+    "description": "通过模型评估掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002033",
+      "ml-q-002290",
+      "ml-q-002839"
+    ],
+    "tags": [
+      "模型评估"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-237",
+    "title": "过拟合修复案例237",
+    "description": "通过过拟合修复掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002389",
+      "ml-q-001115",
+      "ml-q-001987"
+    ],
+    "tags": [
+      "过拟合修复"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-238",
+    "title": "特征工程案例238",
+    "description": "通过特征工程掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000371",
+      "ml-q-000841",
+      "ml-q-000965"
+    ],
+    "tags": [
+      "特征工程"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-239",
+    "title": "网格搜索案例239",
+    "description": "通过网格搜索掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001108",
+      "ml-q-001957",
+      "ml-q-001674"
+    ],
+    "tags": [
+      "网格搜索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-240",
+    "title": "ML面试案例240",
+    "description": "通过ML面试掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002960",
+      "ml-q-001044",
+      "ml-q-002574"
+    ],
+    "tags": [
+      "ML面试"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-241",
+    "title": "房价预测案例241",
+    "description": "通过房价预测掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002926",
+      "ml-q-002454",
+      "ml-q-003561"
+    ],
+    "tags": [
+      "房价预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-242",
+    "title": "学生成绩预测案例242",
+    "description": "通过学生成绩预测掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002660",
+      "ml-q-002571",
+      "ml-q-000462"
+    ],
+    "tags": [
+      "学生成绩预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-243",
+    "title": "用户流失预测案例243",
+    "description": "通过用户流失预测掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001921",
+      "ml-q-000718",
+      "ml-q-002683"
+    ],
+    "tags": [
+      "用户流失预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-244",
+    "title": "垃圾邮件分类案例244",
+    "description": "通过垃圾邮件分类掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000782",
+      "ml-q-000410",
+      "ml-q-002881"
+    ],
+    "tags": [
+      "垃圾邮件分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-245",
+    "title": "鸢尾花分类案例245",
+    "description": "通过鸢尾花分类掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001098",
+      "ml-q-002192",
+      "ml-q-000268"
+    ],
+    "tags": [
+      "鸢尾花分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-246",
+    "title": "信用风险分类案例246",
+    "description": "通过信用风险分类掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-003314",
+      "ml-q-001887",
+      "ml-q-000508"
+    ],
+    "tags": [
+      "信用风险分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-247",
+    "title": "销售预测案例247",
+    "description": "通过销售预测掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001443",
+      "ml-q-002285",
+      "ml-q-002906"
+    ],
+    "tags": [
+      "销售预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-248",
+    "title": "异常检测案例248",
+    "description": "通过异常检测掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002797",
+      "ml-q-003247",
+      "ml-q-000290"
+    ],
+    "tags": [
+      "异常检测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-249",
+    "title": "客户聚类案例249",
+    "description": "通过客户聚类掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-003152",
+      "ml-q-001522",
+      "ml-q-001642"
+    ],
+    "tags": [
+      "客户聚类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-250",
+    "title": "商品聚类案例250",
+    "description": "通过商品聚类掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002821",
+      "ml-q-002579",
+      "ml-q-000597"
+    ],
+    "tags": [
+      "商品聚类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-251",
+    "title": "PCA可视化案例251",
+    "description": "通过PCA可视化掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001216",
+      "ml-q-001696",
+      "ml-q-001367"
+    ],
+    "tags": [
+      "PCA可视化"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-252",
+    "title": "模型评估案例252",
+    "description": "通过模型评估掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002777",
+      "ml-q-002876",
+      "ml-q-000458"
+    ],
+    "tags": [
+      "模型评估"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-253",
+    "title": "过拟合修复案例253",
+    "description": "通过过拟合修复掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001089",
+      "ml-q-002530",
+      "ml-q-001778"
+    ],
+    "tags": [
+      "过拟合修复"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-254",
+    "title": "特征工程案例254",
+    "description": "通过特征工程掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000272",
+      "ml-q-000193",
+      "ml-q-003250"
+    ],
+    "tags": [
+      "特征工程"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-255",
+    "title": "网格搜索案例255",
+    "description": "通过网格搜索掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000795",
+      "ml-q-001251",
+      "ml-q-002113"
+    ],
+    "tags": [
+      "网格搜索"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-256",
+    "title": "ML面试案例256",
+    "description": "通过ML面试掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001036",
+      "ml-q-000597",
+      "ml-q-001577"
+    ],
+    "tags": [
+      "ML面试"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-257",
+    "title": "房价预测案例257",
+    "description": "通过房价预测掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001023",
+      "ml-q-000220",
+      "ml-q-000257"
+    ],
+    "tags": [
+      "房价预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-258",
+    "title": "学生成绩预测案例258",
+    "description": "通过学生成绩预测掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-000134",
+      "ml-q-001985",
+      "ml-q-000286"
+    ],
+    "tags": [
+      "学生成绩预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-259",
+    "title": "用户流失预测案例259",
+    "description": "通过用户流失预测掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-002331",
+      "ml-q-003162",
+      "ml-q-002221"
+    ],
+    "tags": [
+      "用户流失预测"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ml-case-260",
+    "title": "垃圾邮件分类案例260",
+    "description": "通过垃圾邮件分类掌握ML",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "定义"
+      },
+      {
+        "order": 2,
+        "title": "数据",
+        "description": "处理"
+      },
+      {
+        "order": 3,
+        "title": "建模",
+        "description": "训练"
+      },
+      {
+        "order": 4,
+        "title": "评估",
+        "description": "分析"
+      }
+    ],
+    "relatedQuestionIds": [
+      "ml-q-001186",
+      "ml-q-003584",
+      "ml-q-000098"
+    ],
+    "tags": [
+      "垃圾邮件分类"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  }
+]
