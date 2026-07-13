@@ -36,7 +36,11 @@
     "tags": [
       "ML入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ML入门基础",
+    "description": "ML入门基础",
+    "slug": "ml入门基础"
   },
   {
     "id": "ml-exam-02",
@@ -75,7 +79,11 @@
     "tags": [
       "数据特征标签"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据特征标签基础",
+    "description": "数据特征标签基础",
+    "slug": "数据特征标签基础"
   },
   {
     "id": "ml-exam-03",
@@ -114,7 +122,11 @@
     "tags": [
       "Python环境"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Python环境基础",
+    "description": "Python环境基础",
+    "slug": "python环境基础"
   },
   {
     "id": "ml-exam-04",
@@ -153,7 +165,11 @@
     "tags": [
       "数据预处理"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据预处理基础",
+    "description": "数据预处理基础",
+    "slug": "数据预处理基础"
   },
   {
     "id": "ml-exam-05",
@@ -192,7 +208,11 @@
     "tags": [
       "模型评估"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "模型评估基础",
+    "description": "模型评估基础",
+    "slug": "模型评估基础"
   },
   {
     "id": "ml-exam-06",
@@ -231,7 +251,11 @@
     "tags": [
       "线性回归"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "线性回归基础",
+    "description": "线性回归基础",
+    "slug": "线性回归基础"
   },
   {
     "id": "ml-exam-07",
@@ -270,7 +294,11 @@
     "tags": [
       "逻辑回归"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "逻辑回归基础",
+    "description": "逻辑回归基础",
+    "slug": "逻辑回归基础"
   },
   {
     "id": "ml-exam-08",
@@ -309,7 +337,11 @@
     "tags": [
       "KNN朴素贝叶斯"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "KNN朴素贝叶斯基础",
+    "description": "KNN朴素贝叶斯基础",
+    "slug": "knn朴素贝叶斯基础"
   },
   {
     "id": "ml-exam-09",
@@ -348,7 +380,11 @@
     "tags": [
       "决策树随机森林"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "决策树随机森林基础",
+    "description": "决策树随机森林基础",
+    "slug": "决策树随机森林基础"
   },
   {
     "id": "ml-exam-10",
@@ -387,7 +423,11 @@
     "tags": [
       "SVM"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "SVM基础",
+    "description": "SVM基础",
+    "slug": "svm基础"
   },
   {
     "id": "ml-exam-11",
@@ -426,7 +466,11 @@
     "tags": [
       "聚类KMeans"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "聚类KMeans基础",
+    "description": "聚类KMeans基础",
+    "slug": "聚类kmeans基础"
   },
   {
     "id": "ml-exam-12",
@@ -465,7 +509,11 @@
     "tags": [
       "降维PCA"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "降维PCA基础",
+    "description": "降维PCA基础",
+    "slug": "降维pca基础"
   },
   {
     "id": "ml-exam-13",
@@ -504,7 +552,11 @@
     "tags": [
       "模型调参"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "模型调参基础",
+    "description": "模型调参基础",
+    "slug": "模型调参基础"
   },
   {
     "id": "ml-exam-14",
@@ -543,7 +595,11 @@
     "tags": [
       "ML项目面试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ML项目面试基础",
+    "description": "ML项目面试基础",
+    "slug": "ml项目面试基础"
   },
   {
     "id": "ml-exam-15",
@@ -582,7 +638,11 @@
     "tags": [
       "ML入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ML入门基础",
+    "description": "ML入门基础",
+    "slug": "ml入门基础"
   },
   {
     "id": "ml-exam-16",
@@ -621,7 +681,11 @@
     "tags": [
       "数据特征标签"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据特征标签基础",
+    "description": "数据特征标签基础",
+    "slug": "数据特征标签基础"
   },
   {
     "id": "ml-exam-17",
@@ -660,7 +724,11 @@
     "tags": [
       "Python环境"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Python环境基础",
+    "description": "Python环境基础",
+    "slug": "python环境基础"
   },
   {
     "id": "ml-exam-18",
@@ -699,7 +767,11 @@
     "tags": [
       "数据预处理"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据预处理基础",
+    "description": "数据预处理基础",
+    "slug": "数据预处理基础"
   },
   {
     "id": "ml-exam-19",
@@ -738,7 +810,11 @@
     "tags": [
       "模型评估"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "模型评估基础",
+    "description": "模型评估基础",
+    "slug": "模型评估基础"
   },
   {
     "id": "ml-exam-20",
@@ -777,7 +853,11 @@
     "tags": [
       "线性回归"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "线性回归基础",
+    "description": "线性回归基础",
+    "slug": "线性回归基础"
   },
   {
     "id": "ml-exam-21",
@@ -816,7 +896,11 @@
     "tags": [
       "逻辑回归"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "逻辑回归基础",
+    "description": "逻辑回归基础",
+    "slug": "逻辑回归基础"
   },
   {
     "id": "ml-exam-22",
@@ -855,7 +939,11 @@
     "tags": [
       "KNN朴素贝叶斯"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "KNN朴素贝叶斯基础",
+    "description": "KNN朴素贝叶斯基础",
+    "slug": "knn朴素贝叶斯基础"
   },
   {
     "id": "ml-exam-23",
@@ -894,7 +982,11 @@
     "tags": [
       "决策树随机森林"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "决策树随机森林基础",
+    "description": "决策树随机森林基础",
+    "slug": "决策树随机森林基础"
   },
   {
     "id": "ml-exam-24",
@@ -933,7 +1025,11 @@
     "tags": [
       "SVM"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "SVM基础",
+    "description": "SVM基础",
+    "slug": "svm基础"
   },
   {
     "id": "ml-exam-25",
@@ -972,7 +1068,11 @@
     "tags": [
       "聚类KMeans"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "聚类KMeans基础",
+    "description": "聚类KMeans基础",
+    "slug": "聚类kmeans基础"
   },
   {
     "id": "ml-exam-26",
@@ -1011,7 +1111,11 @@
     "tags": [
       "降维PCA"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "降维PCA基础",
+    "description": "降维PCA基础",
+    "slug": "降维pca基础"
   },
   {
     "id": "ml-exam-27",
@@ -1050,7 +1154,11 @@
     "tags": [
       "模型调参"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "模型调参基础",
+    "description": "模型调参基础",
+    "slug": "模型调参基础"
   },
   {
     "id": "ml-exam-28",
@@ -1089,7 +1197,11 @@
     "tags": [
       "ML项目面试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ML项目面试基础",
+    "description": "ML项目面试基础",
+    "slug": "ml项目面试基础"
   },
   {
     "id": "ml-exam-29",
@@ -1128,7 +1240,11 @@
     "tags": [
       "ML入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ML入门基础",
+    "description": "ML入门基础",
+    "slug": "ml入门基础"
   },
   {
     "id": "ml-exam-30",
@@ -1167,7 +1283,11 @@
     "tags": [
       "数据特征标签"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据特征标签基础",
+    "description": "数据特征标签基础",
+    "slug": "数据特征标签基础"
   },
   {
     "id": "ml-exam-31",
@@ -1206,7 +1326,11 @@
     "tags": [
       "Python环境"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Python环境基础",
+    "description": "Python环境基础",
+    "slug": "python环境基础"
   },
   {
     "id": "ml-exam-32",
@@ -1245,7 +1369,11 @@
     "tags": [
       "数据预处理"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据预处理基础",
+    "description": "数据预处理基础",
+    "slug": "数据预处理基础"
   },
   {
     "id": "ml-exam-33",
@@ -1284,7 +1412,11 @@
     "tags": [
       "模型评估"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "模型评估基础",
+    "description": "模型评估基础",
+    "slug": "模型评估基础"
   },
   {
     "id": "ml-exam-34",
@@ -1323,7 +1455,11 @@
     "tags": [
       "线性回归"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "线性回归基础",
+    "description": "线性回归基础",
+    "slug": "线性回归基础"
   },
   {
     "id": "ml-exam-35",
@@ -1362,7 +1498,11 @@
     "tags": [
       "逻辑回归"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "逻辑回归基础",
+    "description": "逻辑回归基础",
+    "slug": "逻辑回归基础"
   },
   {
     "id": "ml-exam-36",
@@ -1401,7 +1541,11 @@
     "tags": [
       "KNN朴素贝叶斯"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "KNN朴素贝叶斯进阶",
+    "description": "KNN朴素贝叶斯进阶",
+    "slug": "knn朴素贝叶斯进阶"
   },
   {
     "id": "ml-exam-37",
@@ -1440,7 +1584,11 @@
     "tags": [
       "决策树随机森林"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "决策树随机森林进阶",
+    "description": "决策树随机森林进阶",
+    "slug": "决策树随机森林进阶"
   },
   {
     "id": "ml-exam-38",
@@ -1479,7 +1627,11 @@
     "tags": [
       "SVM"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "SVM进阶",
+    "description": "SVM进阶",
+    "slug": "svm进阶"
   },
   {
     "id": "ml-exam-39",
@@ -1518,7 +1670,11 @@
     "tags": [
       "聚类KMeans"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "聚类KMeans进阶",
+    "description": "聚类KMeans进阶",
+    "slug": "聚类kmeans进阶"
   },
   {
     "id": "ml-exam-40",
@@ -1557,7 +1713,11 @@
     "tags": [
       "降维PCA"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "降维PCA进阶",
+    "description": "降维PCA进阶",
+    "slug": "降维pca进阶"
   },
   {
     "id": "ml-exam-41",
@@ -1596,7 +1756,11 @@
     "tags": [
       "模型调参"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "模型调参进阶",
+    "description": "模型调参进阶",
+    "slug": "模型调参进阶"
   },
   {
     "id": "ml-exam-42",
@@ -1635,7 +1799,11 @@
     "tags": [
       "ML项目面试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ML项目面试进阶",
+    "description": "ML项目面试进阶",
+    "slug": "ml项目面试进阶"
   },
   {
     "id": "ml-exam-43",
@@ -1674,7 +1842,11 @@
     "tags": [
       "ML入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ML入门进阶",
+    "description": "ML入门进阶",
+    "slug": "ml入门进阶"
   },
   {
     "id": "ml-exam-44",
@@ -1713,7 +1885,11 @@
     "tags": [
       "数据特征标签"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据特征标签进阶",
+    "description": "数据特征标签进阶",
+    "slug": "数据特征标签进阶"
   },
   {
     "id": "ml-exam-45",
@@ -1752,7 +1928,11 @@
     "tags": [
       "Python环境"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Python环境进阶",
+    "description": "Python环境进阶",
+    "slug": "python环境进阶"
   },
   {
     "id": "ml-exam-46",
@@ -1791,7 +1971,11 @@
     "tags": [
       "数据预处理"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据预处理进阶",
+    "description": "数据预处理进阶",
+    "slug": "数据预处理进阶"
   },
   {
     "id": "ml-exam-47",
@@ -1830,7 +2014,11 @@
     "tags": [
       "模型评估"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "模型评估进阶",
+    "description": "模型评估进阶",
+    "slug": "模型评估进阶"
   },
   {
     "id": "ml-exam-48",
@@ -1869,7 +2057,11 @@
     "tags": [
       "线性回归"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "线性回归进阶",
+    "description": "线性回归进阶",
+    "slug": "线性回归进阶"
   },
   {
     "id": "ml-exam-49",
@@ -1908,7 +2100,11 @@
     "tags": [
       "逻辑回归"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "逻辑回归进阶",
+    "description": "逻辑回归进阶",
+    "slug": "逻辑回归进阶"
   },
   {
     "id": "ml-exam-50",
@@ -1947,7 +2143,11 @@
     "tags": [
       "KNN朴素贝叶斯"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "KNN朴素贝叶斯进阶",
+    "description": "KNN朴素贝叶斯进阶",
+    "slug": "knn朴素贝叶斯进阶"
   },
   {
     "id": "ml-exam-51",
@@ -1986,7 +2186,11 @@
     "tags": [
       "决策树随机森林"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "决策树随机森林进阶",
+    "description": "决策树随机森林进阶",
+    "slug": "决策树随机森林进阶"
   },
   {
     "id": "ml-exam-52",
@@ -2025,7 +2229,11 @@
     "tags": [
       "SVM"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "SVM进阶",
+    "description": "SVM进阶",
+    "slug": "svm进阶"
   },
   {
     "id": "ml-exam-53",
@@ -2064,7 +2272,11 @@
     "tags": [
       "聚类KMeans"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "聚类KMeans进阶",
+    "description": "聚类KMeans进阶",
+    "slug": "聚类kmeans进阶"
   },
   {
     "id": "ml-exam-54",
@@ -2103,7 +2315,11 @@
     "tags": [
       "降维PCA"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "降维PCA进阶",
+    "description": "降维PCA进阶",
+    "slug": "降维pca进阶"
   },
   {
     "id": "ml-exam-55",
@@ -2142,7 +2358,11 @@
     "tags": [
       "模型调参"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "模型调参进阶",
+    "description": "模型调参进阶",
+    "slug": "模型调参进阶"
   },
   {
     "id": "ml-exam-56",
@@ -2181,7 +2401,11 @@
     "tags": [
       "ML项目面试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ML项目面试进阶",
+    "description": "ML项目面试进阶",
+    "slug": "ml项目面试进阶"
   },
   {
     "id": "ml-exam-57",
@@ -2220,7 +2444,11 @@
     "tags": [
       "ML入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ML入门进阶",
+    "description": "ML入门进阶",
+    "slug": "ml入门进阶"
   },
   {
     "id": "ml-exam-58",
@@ -2259,7 +2487,11 @@
     "tags": [
       "数据特征标签"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据特征标签进阶",
+    "description": "数据特征标签进阶",
+    "slug": "数据特征标签进阶"
   },
   {
     "id": "ml-exam-59",
@@ -2298,7 +2530,11 @@
     "tags": [
       "Python环境"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Python环境进阶",
+    "description": "Python环境进阶",
+    "slug": "python环境进阶"
   },
   {
     "id": "ml-exam-60",
@@ -2337,7 +2573,11 @@
     "tags": [
       "数据预处理"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据预处理进阶",
+    "description": "数据预处理进阶",
+    "slug": "数据预处理进阶"
   },
   {
     "id": "ml-exam-61",
@@ -2376,7 +2616,11 @@
     "tags": [
       "模型评估"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "模型评估进阶",
+    "description": "模型评估进阶",
+    "slug": "模型评估进阶"
   },
   {
     "id": "ml-exam-62",
@@ -2415,7 +2659,11 @@
     "tags": [
       "线性回归"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "线性回归进阶",
+    "description": "线性回归进阶",
+    "slug": "线性回归进阶"
   },
   {
     "id": "ml-exam-63",
@@ -2454,7 +2702,11 @@
     "tags": [
       "逻辑回归"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "逻辑回归进阶",
+    "description": "逻辑回归进阶",
+    "slug": "逻辑回归进阶"
   },
   {
     "id": "ml-exam-64",
@@ -2493,7 +2745,11 @@
     "tags": [
       "KNN朴素贝叶斯"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "KNN朴素贝叶斯进阶",
+    "description": "KNN朴素贝叶斯进阶",
+    "slug": "knn朴素贝叶斯进阶"
   },
   {
     "id": "ml-exam-65",
@@ -2532,7 +2788,11 @@
     "tags": [
       "决策树随机森林"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "决策树随机森林进阶",
+    "description": "决策树随机森林进阶",
+    "slug": "决策树随机森林进阶"
   },
   {
     "id": "ml-exam-66",
@@ -2571,7 +2831,11 @@
     "tags": [
       "SVM"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "SVM综合",
+    "description": "SVM综合",
+    "slug": "svm综合"
   },
   {
     "id": "ml-exam-67",
@@ -2610,7 +2874,11 @@
     "tags": [
       "聚类KMeans"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "聚类KMeans综合",
+    "description": "聚类KMeans综合",
+    "slug": "聚类kmeans综合"
   },
   {
     "id": "ml-exam-68",
@@ -2649,7 +2917,11 @@
     "tags": [
       "降维PCA"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "降维PCA综合",
+    "description": "降维PCA综合",
+    "slug": "降维pca综合"
   },
   {
     "id": "ml-exam-69",
@@ -2688,7 +2960,11 @@
     "tags": [
       "模型调参"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "模型调参综合",
+    "description": "模型调参综合",
+    "slug": "模型调参综合"
   },
   {
     "id": "ml-exam-70",
@@ -2727,7 +3003,11 @@
     "tags": [
       "ML项目面试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ML项目面试综合",
+    "description": "ML项目面试综合",
+    "slug": "ml项目面试综合"
   },
   {
     "id": "ml-exam-71",
@@ -2766,7 +3046,11 @@
     "tags": [
       "ML入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ML入门综合",
+    "description": "ML入门综合",
+    "slug": "ml入门综合"
   },
   {
     "id": "ml-exam-72",
@@ -2805,7 +3089,11 @@
     "tags": [
       "数据特征标签"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据特征标签综合",
+    "description": "数据特征标签综合",
+    "slug": "数据特征标签综合"
   },
   {
     "id": "ml-exam-73",
@@ -2844,7 +3132,11 @@
     "tags": [
       "Python环境"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Python环境综合",
+    "description": "Python环境综合",
+    "slug": "python环境综合"
   },
   {
     "id": "ml-exam-74",
@@ -2883,7 +3175,11 @@
     "tags": [
       "数据预处理"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据预处理综合",
+    "description": "数据预处理综合",
+    "slug": "数据预处理综合"
   },
   {
     "id": "ml-exam-75",
@@ -2922,7 +3218,11 @@
     "tags": [
       "模型评估"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "模型评估综合",
+    "description": "模型评估综合",
+    "slug": "模型评估综合"
   },
   {
     "id": "ml-exam-76",
@@ -2961,7 +3261,11 @@
     "tags": [
       "线性回归"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "线性回归综合",
+    "description": "线性回归综合",
+    "slug": "线性回归综合"
   },
   {
     "id": "ml-exam-77",
@@ -3000,7 +3304,11 @@
     "tags": [
       "逻辑回归"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "逻辑回归综合",
+    "description": "逻辑回归综合",
+    "slug": "逻辑回归综合"
   },
   {
     "id": "ml-exam-78",
@@ -3039,7 +3347,11 @@
     "tags": [
       "KNN朴素贝叶斯"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "KNN朴素贝叶斯综合",
+    "description": "KNN朴素贝叶斯综合",
+    "slug": "knn朴素贝叶斯综合"
   },
   {
     "id": "ml-exam-79",
@@ -3078,7 +3390,11 @@
     "tags": [
       "决策树随机森林"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "决策树随机森林综合",
+    "description": "决策树随机森林综合",
+    "slug": "决策树随机森林综合"
   },
   {
     "id": "ml-exam-80",
@@ -3117,7 +3433,11 @@
     "tags": [
       "SVM"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "SVM综合",
+    "description": "SVM综合",
+    "slug": "svm综合"
   },
   {
     "id": "ml-exam-81",
@@ -3156,7 +3476,11 @@
     "tags": [
       "聚类KMeans"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "聚类KMeans综合",
+    "description": "聚类KMeans综合",
+    "slug": "聚类kmeans综合"
   },
   {
     "id": "ml-exam-82",
@@ -3195,7 +3519,11 @@
     "tags": [
       "降维PCA"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "降维PCA综合",
+    "description": "降维PCA综合",
+    "slug": "降维pca综合"
   },
   {
     "id": "ml-exam-83",
@@ -3234,7 +3562,11 @@
     "tags": [
       "模型调参"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "模型调参综合",
+    "description": "模型调参综合",
+    "slug": "模型调参综合"
   },
   {
     "id": "ml-exam-84",
@@ -3273,7 +3605,11 @@
     "tags": [
       "ML项目面试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ML项目面试综合",
+    "description": "ML项目面试综合",
+    "slug": "ml项目面试综合"
   },
   {
     "id": "ml-exam-85",
@@ -3312,7 +3648,11 @@
     "tags": [
       "ML入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ML入门综合",
+    "description": "ML入门综合",
+    "slug": "ml入门综合"
   },
   {
     "id": "ml-exam-86",
@@ -3351,7 +3691,11 @@
     "tags": [
       "数据特征标签"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据特征标签综合",
+    "description": "数据特征标签综合",
+    "slug": "数据特征标签综合"
   },
   {
     "id": "ml-exam-87",
@@ -3390,7 +3734,11 @@
     "tags": [
       "Python环境"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Python环境综合",
+    "description": "Python环境综合",
+    "slug": "python环境综合"
   },
   {
     "id": "ml-exam-88",
@@ -3429,7 +3777,11 @@
     "tags": [
       "数据预处理"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据预处理综合",
+    "description": "数据预处理综合",
+    "slug": "数据预处理综合"
   },
   {
     "id": "ml-exam-89",
@@ -3468,7 +3820,11 @@
     "tags": [
       "模型评估"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "模型评估综合",
+    "description": "模型评估综合",
+    "slug": "模型评估综合"
   },
   {
     "id": "ml-exam-90",
@@ -3507,7 +3863,11 @@
     "tags": [
       "线性回归"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "线性回归综合",
+    "description": "线性回归综合",
+    "slug": "线性回归综合"
   },
   {
     "id": "ml-exam-91",
@@ -3546,7 +3906,11 @@
     "tags": [
       "逻辑回归"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "逻辑回归综合",
+    "description": "逻辑回归综合",
+    "slug": "逻辑回归综合"
   },
   {
     "id": "ml-exam-92",
@@ -3585,7 +3949,11 @@
     "tags": [
       "KNN朴素贝叶斯"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "KNN朴素贝叶斯综合",
+    "description": "KNN朴素贝叶斯综合",
+    "slug": "knn朴素贝叶斯综合"
   },
   {
     "id": "ml-exam-93",
@@ -3624,7 +3992,11 @@
     "tags": [
       "决策树随机森林"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "决策树随机森林综合",
+    "description": "决策树随机森林综合",
+    "slug": "决策树随机森林综合"
   },
   {
     "id": "ml-exam-94",
@@ -3663,7 +4035,11 @@
     "tags": [
       "SVM"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "SVM综合",
+    "description": "SVM综合",
+    "slug": "svm综合"
   },
   {
     "id": "ml-exam-95",
@@ -3702,7 +4078,11 @@
     "tags": [
       "聚类KMeans"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "聚类KMeans综合",
+    "description": "聚类KMeans综合",
+    "slug": "聚类kmeans综合"
   },
   {
     "id": "ml-exam-96",
@@ -3741,7 +4121,11 @@
     "tags": [
       "降维PCA"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "降维PCA综合",
+    "description": "降维PCA综合",
+    "slug": "降维pca综合"
   },
   {
     "id": "ml-exam-97",
@@ -3780,7 +4164,11 @@
     "tags": [
       "模型调参"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "模型调参综合",
+    "description": "模型调参综合",
+    "slug": "模型调参综合"
   },
   {
     "id": "ml-exam-98",
@@ -3819,7 +4207,11 @@
     "tags": [
       "ML项目面试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ML项目面试综合",
+    "description": "ML项目面试综合",
+    "slug": "ml项目面试综合"
   },
   {
     "id": "ml-exam-99",
@@ -3858,7 +4250,11 @@
     "tags": [
       "ML入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ML入门综合",
+    "description": "ML入门综合",
+    "slug": "ml入门综合"
   },
   {
     "id": "ml-exam-100",
@@ -3897,6 +4293,10 @@
     "tags": [
       "数据特征标签"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数据特征标签综合",
+    "description": "数据特征标签综合",
+    "slug": "数据特征标签综合"
   }
 ]
