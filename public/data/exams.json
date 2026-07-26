@@ -1,9 +1,9 @@
 [
   {
     "id": "mod-machine-learning-basic-exam-1",
-    "slug": "final-exam",
-    "title": "机器学习基础 核心期末综合自测",
-    "summary": "全面检验您对 机器学习基础 所有阶段知识体系的掌握程度。",
+    "slug": "basic-exam",
+    "title": "机器学习基础 基础入门测验",
+    "summary": "覆盖监督/无监督学习、数据划分、sklearn 基本用法与常见概念的入门自测。",
     "difficulty": "easy",
     "questionIds": [
       "mod-machine-learning-basic-q-1",
@@ -11,21 +11,54 @@
       "mod-machine-learning-basic-q-3",
       "mod-machine-learning-basic-q-4",
       "mod-machine-learning-basic-q-5",
-      "mod-machine-learning-basic-q-6"
+      "mod-machine-learning-basic-q-6",
+      "mod-machine-learning-basic-q-16",
+      "mod-machine-learning-basic-q-19",
+      "mod-machine-learning-basic-q-20"
     ],
-    "timeLimitMinutes": 60,
+    "timeLimitMinutes": 15,
     "passingScore": 60
   },
   {
     "id": "mod-machine-learning-basic-exam-2",
-    "slug": "basic-exam",
-    "title": "机器学习基础 基础概念快速评估",
-    "summary": "针对核心基础概念的摸底评估，题目精炼。",
-    "difficulty": "easy",
+    "slug": "advanced-exam",
+    "title": "机器学习基础 进阶强化测验",
+    "summary": "聚焦评估指标、交叉验证、正则化、集成学习与特征工程陷阱的进阶训练。",
+    "difficulty": "medium",
     "questionIds": [
-      "mod-machine-learning-basic-q-1",
-      "mod-machine-learning-basic-q-2",
-      "mod-machine-learning-basic-q-3"
+      "mod-machine-learning-basic-q-7",
+      "mod-machine-learning-basic-q-8",
+      "mod-machine-learning-basic-q-9",
+      "mod-machine-learning-basic-q-10",
+      "mod-machine-learning-basic-q-11",
+      "mod-machine-learning-basic-q-12",
+      "mod-machine-learning-basic-q-15",
+      "mod-machine-learning-basic-q-17",
+      "mod-machine-learning-basic-q-21",
+      "mod-machine-learning-basic-q-23"
+    ],
+    "timeLimitMinutes": 25,
+    "passingScore": 60
+  },
+  {
+    "id": "mod-machine-learning-basic-exam-3",
+    "slug": "final-exam",
+    "title": "机器学习基础 综合模拟考试",
+    "summary": "从特征工程、模型选择到偏差方差权衡的全流程综合模拟考试。",
+    "difficulty": "hard",
+    "questionIds": [
+      "mod-machine-learning-basic-q-4",
+      "mod-machine-learning-basic-q-7",
+      "mod-machine-learning-basic-q-9",
+      "mod-machine-learning-basic-q-10",
+      "mod-machine-learning-basic-q-12",
+      "mod-machine-learning-basic-q-13",
+      "mod-machine-learning-basic-q-14",
+      "mod-machine-learning-basic-q-17",
+      "mod-machine-learning-basic-q-18",
+      "mod-machine-learning-basic-q-22",
+      "mod-machine-learning-basic-q-23",
+      "mod-machine-learning-basic-q-24"
     ],
     "timeLimitMinutes": 30,
     "passingScore": 60

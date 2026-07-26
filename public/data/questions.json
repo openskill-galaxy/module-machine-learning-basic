@@ -1,218 +1,428 @@
 [
   {
     "id": "mod-machine-learning-basic-q-1",
-    "slug": "question-course-1-2",
+    "slug": "question-1",
     "type": "single",
-    "stem": "在学习 [机器学习基础] 的过程里，关于“机器学习基础 环境依赖搭建与运行机制”的核心考点，以下表述最为准确的是？",
+    "stem": "下列哪个任务属于典型的无监督学习？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      {"key": "A", "text": "用 K-Means 对没有标签的用户行为数据进行聚类分群"},
+      {"key": "B", "text": "根据带标签的历史邮件训练垃圾邮件分类器"},
+      {"key": "C", "text": "根据房屋面积、位置等特征和历史成交价预测房价"},
+      {"key": "D", "text": "用标注好的猫狗图片训练图像分类模型"}
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“机器学习基础 环境依赖搭建与运行机制”的正确答案为 A。解析：在 机器学习基础 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "机器学习基础",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-1",
+    "answer": ["A"],
+    "explanation": "无监督学习的特点是训练数据没有标签，算法自行发现数据内在结构，聚类（K-Means、层次聚类）和降维（PCA）是代表。B、D 是有标签的分类任务，C 是有标签的回归任务，均属于监督学习。",
+    "tags": ["机器学习", "聚类"],
+    "difficulty": "easy",
+    "chapter": "mod-machine-learning-basic-c-1",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 2
   },
   {
     "id": "mod-machine-learning-basic-q-2",
-    "slug": "question-course-1-3",
+    "slug": "question-2",
     "type": "single",
-    "stem": "在学习 [机器学习基础] 的过程里，关于“机器学习基础 配置文件覆盖与属性解析”的核心考点，以下表述最为准确的是？",
+    "stem": "训练模型前把数据集划分为训练集和测试集的根本目的是什么？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      {"key": "A", "text": "用未参与训练的数据评估模型的泛化能力"},
+      {"key": "B", "text": "减少数据量，加快训练速度"},
+      {"key": "C", "text": "让模型能够记住测试集答案以提高分数"},
+      {"key": "D", "text": "满足框架 API 的强制参数要求"}
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“机器学习基础 配置文件覆盖与属性解析”的正确答案为 A。解析：在 机器学习基础 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "机器学习基础",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-1",
+    "answer": ["A"],
+    "explanation": "机器学习的目标是对未见过的数据表现良好（泛化），如果用训练数据本身评估，模型可能只是记忆了训练样本（过拟合）却得到虚高分数。保留独立测试集模拟真实上线场景。C 恰恰是必须避免的数据泄漏；B、D 都不是划分数据集的目的。",
+    "tags": ["模型评估"],
+    "difficulty": "easy",
+    "chapter": "mod-machine-learning-basic-c-2",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 2
   },
   {
     "id": "mod-machine-learning-basic-q-3",
-    "slug": "question-course-2-4",
+    "slug": "question-3",
     "type": "single",
-    "stem": "在学习 [机器学习基础] 的过程里，关于“机器学习基础 API 接口规范与数据通信”的核心考点，以下表述最为准确的是？",
+    "stem": "在 scikit-learn 中，训练一个逻辑回归分类器并预测的标准 API 调用顺序是？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      {"key": "A", "text": "model = LogisticRegression(); model.fit(X_train, y_train); y_pred = model.predict(X_test)"},
+      {"key": "B", "text": "model.predict(X_train); model.fit(X_test)"},
+      {"key": "C", "text": "model = LogisticRegression(X_train); model.run()"},
+      {"key": "D", "text": "model.transform(X_train, y_train) 后直接读取 model.result 属性"}
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“机器学习基础 API 接口规范与数据通信”的正确答案为 A。解析：在 机器学习基础 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "机器学习基础",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-2",
+    "answer": ["A"],
+    "explanation": "scikit-learn 的统一接口约定：估计器实例化（可传超参数）→ fit(X, y) 在训练集上学习参数 → predict(X) 对新数据预测；评估可用 score 或 metrics 模块。transform 是预处理器（如 StandardScaler）的方法，不用于分类器预测，其他选项均不符合 sklearn API 设计。",
+    "tags": ["scikit-learn", "Python"],
+    "difficulty": "easy",
+    "chapter": "mod-machine-learning-basic-c-3",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 2
   },
   {
     "id": "mod-machine-learning-basic-q-4",
-    "slug": "question-course-2-5",
+    "slug": "question-4",
     "type": "single",
-    "stem": "在学习 [机器学习基础] 的过程里，关于“机器学习基础 核心控制器与数据校验机制”的核心考点，以下表述最为准确的是？",
+    "stem": "模型在训练集上准确率 99%，在测试集上只有 65%，这种现象最可能是？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      {"key": "A", "text": "过拟合（Overfitting）"},
+      {"key": "B", "text": "欠拟合（Underfitting）"},
+      {"key": "C", "text": "梯度消失"},
+      {"key": "D", "text": "数据不平衡导致的评估错误"}
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“机器学习基础 核心控制器与数据校验机制”的正确答案为 A。解析：在 机器学习基础 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "机器学习基础",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-2",
+    "answer": ["A"],
+    "explanation": "训练集表现极好而测试集显著变差，说明模型记住了训练数据的噪声与细节、泛化能力差，即过拟合。缓解手段包括：增加数据、正则化（L1/L2）、降低模型复杂度、早停、交叉验证调参等。欠拟合表现为训练集和测试集都差；梯度消失是深层网络训练问题；数据不平衡通常同时影响两边指标。",
+    "tags": ["过拟合", "模型评估"],
+    "difficulty": "easy",
+    "chapter": "mod-machine-learning-basic-c-1",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 2
   },
   {
     "id": "mod-machine-learning-basic-q-5",
-    "slug": "question-course-3-6",
+    "slug": "question-5",
     "type": "single",
-    "stem": "在学习 [机器学习基础] 的过程里，关于“机器学习基础 缓存优化与垃圾回收调优”的核心考点，以下表述最为准确的是？",
+    "stem": "对取值范围差异巨大的特征（如年龄 0~100 与年收入 0~1000 万）做标准化（StandardScaler），对下列哪类模型最重要？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      {"key": "A", "text": "基于距离或梯度的模型，如 KNN、SVM、逻辑回归（带正则）"},
+      {"key": "B", "text": "决策树与随机森林"},
+      {"key": "C", "text": "所有模型都完全不需要标准化"},
+      {"key": "D", "text": "标准化只影响可视化效果，与模型无关"}
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“机器学习基础 缓存优化与垃圾回收调优”的正确答案为 A。解析：在 机器学习基础 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "机器学习基础",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-3",
+    "answer": ["A"],
+    "explanation": "KNN 等距离度量模型会被大尺度特征主导；梯度下降在尺度悬殊时收敛慢；正则化项对不同尺度系数惩罚不公平——这些模型都需要标准化/归一化。决策树系列按单特征阈值分裂，对单调缩放不敏感，通常无需标准化，故 B 不是最需要的；C、D 明显错误。",
+    "tags": ["特征工程"],
+    "difficulty": "easy",
+    "chapter": "mod-machine-learning-basic-c-2",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 2
   },
   {
     "id": "mod-machine-learning-basic-q-6",
-    "slug": "question-course-3-7",
+    "slug": "question-6",
     "type": "single",
-    "stem": "在学习 [机器学习基础] 的过程里，关于“机器学习基础 可观测性日志与分布式链路监控”的核心考点，以下表述最为准确的是？",
+    "stem": "线性回归常用的损失函数是？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      {"key": "A", "text": "均方误差（MSE）"},
+      {"key": "B", "text": "交叉熵损失"},
+      {"key": "C", "text": "合页损失（Hinge Loss）"},
+      {"key": "D", "text": "编辑距离"}
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“机器学习基础 可观测性日志与分布式链路监控”的正确答案为 A。解析：在 机器学习基础 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "机器学习基础",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-3",
+    "answer": ["A"],
+    "explanation": "线性回归拟合连续值，典型损失是均方误差 MSE =  (1/n)Σ(y - ŷ)²，其最小二乘解有解析形式，也可用梯度下降求解。交叉熵用于分类（如逻辑回归、神经网络分类）；Hinge Loss 是 SVM 的损失；编辑距离是字符串相似度度量，不是训练损失。",
+    "tags": ["回归", "损失函数"],
+    "difficulty": "easy",
+    "chapter": "mod-machine-learning-basic-c-3",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-machine-learning-basic-q-7",
+    "slug": "question-7",
+    "type": "single",
+    "stem": "某癌症筛查数据集中 99% 样本为阴性。一个把所有样本都预测为阴性的模型准确率达 99%，但毫无实用价值。此时更应该关注的指标是？",
+    "options": [
+      {"key": "A", "text": "对阳性类的召回率（Recall）、精确率（Precision）与 F1"},
+      {"key": "B", "text": "继续只看整体准确率（Accuracy）"},
+      {"key": "C", "text": "训练损失下降曲线是否平滑"},
+      {"key": "D", "text": "模型的参数总量"}
+    ],
+    "answer": ["A"],
+    "explanation": "类别严重不平衡时准确率会被多数类淹没。召回率 = TP/(TP+FN) 衡量漏诊率（筛查场景最关键），精确率 = TP/(TP+FP) 衡量误报，F1 是两者调和平均，此外 PR 曲线、AUC 也常用。该全阴性模型对阳性类召回率为 0，立即暴露其无效性。B 正是陷阱本身；C、D 与该问题无关。",
+    "tags": ["模型评估", "不平衡数据"],
+    "difficulty": "medium",
+    "chapter": "mod-machine-learning-basic-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-machine-learning-basic-q-8",
+    "slug": "question-8",
+    "type": "single",
+    "stem": "关于 K 折交叉验证（K-Fold Cross Validation），下列说法正确的是？",
+    "options": [
+      {"key": "A", "text": "数据分成 K 份，轮流用其中 1 份验证、其余 K-1 份训练，最后取 K 次评估的平均"},
+      {"key": "B", "text": "K 折交叉验证只能用于 K 近邻算法"},
+      {"key": "C", "text": "每一折都用全部数据同时做训练和验证"},
+      {"key": "D", "text": "K 越大评估结果一定越准确，且计算成本更低"}
+    ],
+    "answer": ["A"],
+    "explanation": "K 折交叉验证充分利用有限数据、降低单次划分的随机性，常用于模型选择与超参数调优（如 GridSearchCV）。B 混淆了两个 K 的含义；C 违背了训练/验证分离原则；D 错误——K 越大计算成本越高，且极端情况（留一法）方差可能反而较大。",
+    "tags": ["交叉验证", "模型评估"],
+    "difficulty": "medium",
+    "chapter": "mod-machine-learning-basic-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-machine-learning-basic-q-9",
+    "slug": "question-9",
+    "type": "single",
+    "stem": "L1 正则化（Lasso）相比 L2 正则化（Ridge）的显著特点是？",
+    "options": [
+      {"key": "A", "text": "倾向于把部分特征系数压缩到恰好为 0，具有特征选择效果"},
+      {"key": "B", "text": "会让所有系数都变成同一个值"},
+      {"key": "C", "text": "只能用于分类问题，不能用于回归"},
+      {"key": "D", "text": "会增大所有系数的绝对值以增强表达能力"}
+    ],
+    "answer": ["A"],
+    "explanation": "L1 正则化在损失中加入系数绝对值之和 λΣ|w|，其等值线在坐标轴上有“尖角”，最优解容易落在轴上使部分权重恰好为 0，从而产生稀疏解、天然完成特征选择；L2 加入平方和 λΣw²，只会让系数整体变小趋近 0 但通常不为 0。B、C、D 均为错误描述。",
+    "tags": ["正则化", "特征工程"],
+    "difficulty": "medium",
+    "chapter": "mod-machine-learning-basic-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-machine-learning-basic-q-10",
+    "slug": "question-10",
+    "type": "single",
+    "stem": "随机森林（Random Forest）降低过拟合的核心机制是？",
+    "options": [
+      {"key": "A", "text": "对样本做自助采样（Bagging）并对特征随机抽样，训练多棵去相关的树后投票/平均"},
+      {"key": "B", "text": "只训练一棵尽可能深的决策树"},
+      {"key": "C", "text": "每棵树都使用完全相同的数据和特征"},
+      {"key": "D", "text": "顺序地训练树，每棵树重点拟合前一棵的残差"}
+    ],
+    "answer": ["A"],
+    "explanation": "随机森林 = Bagging + 特征随机性：每棵树用有放回抽样的子集训练，节点分裂时只考虑随机特征子集，使各树尽量独立；集成投票平均后方差显著下降。C 会让所有树相同，失去集成意义；D 描述的是 Boosting（如 GBDT/XGBoost）的思路，两者是不同的集成范式。",
+    "tags": ["随机森林", "集成学习"],
+    "difficulty": "medium",
+    "chapter": "mod-machine-learning-basic-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-machine-learning-basic-q-11",
+    "slug": "question-11",
+    "type": "single",
+    "stem": "K-Means 聚类算法的每轮迭代包含的两个核心步骤是？",
+    "options": [
+      {"key": "A", "text": "将每个样本分配给最近的簇中心；然后用簇内样本均值更新各簇中心"},
+      {"key": "B", "text": "随机删除一半样本；然后对剩余样本排序"},
+      {"key": "C", "text": "计算全局梯度；然后反向传播更新权重"},
+      {"key": "D", "text": "构建决策树；然后进行剪枝"}
+    ],
+    "answer": ["A"],
+    "explanation": "K-Means 交替执行分配（Assignment，按欧氏距离归入最近中心）和更新（Update，重算簇均值）两步，直至中心收敛或达到迭代上限。它需要预先指定 K（可用肘部法则/轮廓系数选择），对初始中心敏感（K-Means++ 改进初始化），且倾向发现凸形簇。C 是神经网络训练流程，D 是决策树流程。",
+    "tags": ["聚类", "K-Means"],
+    "difficulty": "medium",
+    "chapter": "mod-machine-learning-basic-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-machine-learning-basic-q-12",
+    "slug": "question-12",
+    "type": "single",
+    "stem": "关于数据泄漏（Data Leakage），下列哪个场景属于典型的数据泄漏？",
+    "options": [
+      {"key": "A", "text": "在划分训练/测试集之前，用全量数据计算均值方差做标准化"},
+      {"key": "B", "text": "只用训练集拟合 StandardScaler，再用它转换测试集"},
+      {"key": "C", "text": "对训练集做数据增强"},
+      {"key": "D", "text": "用交叉验证选择超参数"}
+    ],
+    "answer": ["A"],
+    "explanation": "用全量数据（含测试集）统计均值方差，等于让测试集信息提前渗入预处理环节，评估结果会偏乐观，上线后表现打折。正确流程是 B：预处理器只在训练集上 fit，测试集仅 transform（sklearn Pipeline 可自动保证）。C、D 都是正常实践。其他常见泄漏还包括：用未来信息构造特征、标签泄漏进特征等。",
+    "tags": ["数据泄漏", "特征工程"],
+    "difficulty": "medium",
+    "chapter": "mod-machine-learning-basic-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-machine-learning-basic-q-13",
+    "slug": "question-13",
+    "type": "single",
+    "stem": "从偏差-方差分解（Bias-Variance Tradeoff）的角度，下列说法正确的是？",
+    "options": [
+      {"key": "A", "text": "简单模型往往高偏差低方差，复杂模型往往低偏差高方差，需要在两者间权衡"},
+      {"key": "B", "text": "偏差和方差可以同时无限降低，不存在权衡"},
+      {"key": "C", "text": "高方差意味着模型欠拟合，应继续增加模型复杂度"},
+      {"key": "D", "text": "偏差只与数据量有关，与模型复杂度无关"}
+    ],
+    "answer": ["A"],
+    "explanation": "泛化误差可分解为偏差²+方差+不可约噪声。线性模型这类简单假设可能系统性偏离真实关系（高偏差/欠拟合）；深树、高次多项式等复杂模型对训练数据波动敏感（高方差/过拟合）。实践中通过正则化、集成、增加数据等调节两者平衡。C 说反了——高方差对应过拟合，应降低复杂度或正则化；B、D 错误。",
+    "tags": ["偏差方差", "模型评估"],
+    "difficulty": "hard",
+    "chapter": "mod-machine-learning-basic-c-1",
+    "knowledge_points": [],
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-machine-learning-basic-q-14",
+    "slug": "question-14",
+    "type": "single",
+    "stem": "GBDT（梯度提升树）与随机森林在训练方式上的本质区别是？",
+    "options": [
+      {"key": "A", "text": "GBDT 串行训练，每棵新树拟合当前模型的负梯度（残差方向）；随机森林并行训练独立的树再平均"},
+      {"key": "B", "text": "GBDT 的基学习器是神经网络，随机森林的是决策树"},
+      {"key": "C", "text": "随机森林是有监督算法，GBDT 是无监督算法"},
+      {"key": "D", "text": "两者训练方式完全相同，只是名字不同"}
+    ],
+    "answer": ["A"],
+    "explanation": "GBDT 属 Boosting：树按顺序生成，每棵树在函数空间中沿损失函数负梯度方向修正前面模型的错误，主要降低偏差；随机森林属 Bagging：各树基于随机子样本独立并行训练后集成，主要降低方差。两者基学习器都是决策树，都属于监督学习，故 B、C、D 均错。XGBoost、LightGBM 是 GBDT 的高效工程实现。",
+    "tags": ["集成学习", "GBDT"],
+    "difficulty": "hard",
+    "chapter": "mod-machine-learning-basic-c-2",
+    "knowledge_points": [],
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-machine-learning-basic-q-15",
+    "slug": "question-15",
+    "type": "multiple",
+    "stem": "下列哪些方法有助于缓解模型过拟合？（多选）",
+    "options": [
+      {"key": "A", "text": "增加训练数据量或使用数据增强"},
+      {"key": "B", "text": "添加 L1/L2 正则化项"},
+      {"key": "C", "text": "把决策树的最大深度限制取消，让树自由生长"},
+      {"key": "D", "text": "使用早停（Early Stopping）在验证集指标恶化时停止训练"}
+    ],
+    "answer": ["A", "B", "D"],
+    "explanation": "更多数据让模型难以记住噪声（A）；正则化惩罚过大参数、限制模型复杂度（B）；早停防止模型在训练后期过度拟合训练集（D）。C 恰恰相反——不限深度的决策树会一直分裂到叶子纯净，把噪声也拟合进去，是加剧过拟合的做法；限制深度、最小叶子样本数、剪枝才是缓解手段。",
+    "tags": ["过拟合", "正则化"],
+    "difficulty": "medium",
+    "chapter": "mod-machine-learning-basic-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-machine-learning-basic-q-16",
+    "slug": "question-16",
+    "type": "multiple",
+    "stem": "以下哪些属于特征工程的常见操作？（多选）",
+    "options": [
+      {"key": "A", "text": "对类别特征做独热编码（One-Hot Encoding）"},
+      {"key": "B", "text": "对缺失值进行填充（均值/中位数/众数或模型填充）"},
+      {"key": "C", "text": "从日期字段派生出星期几、是否节假日等新特征"},
+      {"key": "D", "text": "直接把测试集标签作为一列特征输入模型"}
+    ],
+    "answer": ["A", "B", "C"],
+    "explanation": "独热编码把无序类别转为数值表示（A）、缺失值填充保证算法可运行并保留信息（B）、时间派生特征注入业务先验（C），都是标准特征工程手段。D 是荒谬的标签泄漏——标签在预测时不可得，这样训练出的模型完全无法上线使用。",
+    "tags": ["特征工程"],
+    "difficulty": "easy",
+    "chapter": "mod-machine-learning-basic-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-machine-learning-basic-q-17",
+    "slug": "question-17",
+    "type": "multiple",
+    "stem": "关于混淆矩阵及其衍生指标，下列说法正确的有？（多选）",
+    "options": [
+      {"key": "A", "text": "精确率 Precision = TP / (TP + FP)"},
+      {"key": "B", "text": "召回率 Recall = TP / (TP + FN)"},
+      {"key": "C", "text": "F1 分数是精确率与召回率的调和平均数"},
+      {"key": "D", "text": "召回率提高时，精确率必然同步提高"}
+    ],
+    "answer": ["A", "B", "C"],
+    "explanation": "A、B 是标准定义：精确率衡量预测为正的样本中有多少真的为正；召回率衡量真实正样本中有多少被找出来。F1 = 2PR/(P+R) 用调和平均惩罚两者失衡（C 正确）。D 错误：两者通常此消彼长——降低判正阈值可以提高召回但会引入更多误报使精确率下降，需要按业务代价选择平衡点。",
+    "tags": ["模型评估", "混淆矩阵"],
+    "difficulty": "medium",
+    "chapter": "mod-machine-learning-basic-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-machine-learning-basic-q-18",
+    "slug": "question-18",
+    "type": "multiple",
+    "stem": "关于主成分分析（PCA），下列说法正确的有？（多选）",
+    "options": [
+      {"key": "A", "text": "PCA 通过正交变换把数据投影到方差最大的方向上实现降维"},
+      {"key": "B", "text": "PCA 是无监督方法，不使用标签信息"},
+      {"key": "C", "text": "做 PCA 前通常需要对特征进行标准化"},
+      {"key": "D", "text": "PCA 得到的主成分保留了原始特征的业务含义，可解释性更强"}
+    ],
+    "answer": ["A", "B", "C"],
+    "explanation": "PCA 求协方差矩阵的特征向量，按特征值（方差贡献）从大到小取前 k 个方向投影（A）；全过程不涉及标签（B）；不标准化时大尺度特征会主导协方差矩阵，因此通常先做标准化（C）。D 错误：主成分是原始特征的线性组合，通常失去直观业务含义，可解释性变差是 PCA 的主要代价之一。",
+    "tags": ["降维", "PCA"],
+    "difficulty": "hard",
+    "chapter": "mod-machine-learning-basic-c-3",
+    "knowledge_points": [],
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-machine-learning-basic-q-19",
+    "slug": "question-19",
+    "type": "judge",
+    "stem": "判断：逻辑回归（Logistic Regression）虽然名字里有“回归”，但它主要用于解决分类问题。",
+    "options": [],
+    "answer": ["T"],
+    "explanation": "正确。逻辑回归在线性组合 w·x+b 外套一层 Sigmoid 函数，把输出压缩到 (0,1) 区间作为正类概率，再按阈值（默认 0.5）判类，训练目标是最小化交叉熵（对数损失）。它是二分类的基线模型，配合 Softmax 可扩展到多分类。“回归”指的是对对数几率（log-odds）建模的历史渊源。",
+    "tags": ["逻辑回归", "分类"],
+    "difficulty": "easy",
+    "chapter": "mod-machine-learning-basic-c-1",
+    "knowledge_points": [],
+    "estimated_time": 1
+  },
+  {
+    "id": "mod-machine-learning-basic-q-20",
+    "slug": "question-20",
+    "type": "judge",
+    "stem": "判断：只要训练数据足够多，任何模型都不可能过拟合，因此不需要验证集。",
+    "options": [],
+    "answer": ["F"],
+    "explanation": "错误。数据增多确实能缓解过拟合，但足够复杂的模型（如超深决策树、大容量神经网络）依然可能记忆训练数据中的噪声；而且“足够多”在现实中往往达不到。验证集还承担超参数选择、早停判断、模型比较等职责，无论数据量多大都是规范流程的一部分。",
+    "tags": ["过拟合", "模型评估"],
+    "difficulty": "easy",
+    "chapter": "mod-machine-learning-basic-c-2",
+    "knowledge_points": [],
+    "estimated_time": 1
+  },
+  {
+    "id": "mod-machine-learning-basic-q-21",
+    "slug": "question-21",
+    "type": "judge",
+    "stem": "判断：KNN（K 近邻）算法没有显式的训练过程，主要计算开销发生在预测阶段。",
+    "options": [],
+    "answer": ["T"],
+    "explanation": "正确。KNN 是惰性学习（lazy learning）的代表：“训练”只是存储样本；预测时才计算查询点与所有训练样本的距离，取最近 K 个投票（分类）或平均（回归），因此预测复杂度约 O(n·d)，大数据集上很慢。可用 KD 树、球树或近似最近邻（ANN）索引加速。K 的取值与距离度量对结果影响显著。",
+    "tags": ["KNN"],
+    "difficulty": "medium",
+    "chapter": "mod-machine-learning-basic-c-3",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-machine-learning-basic-q-22",
+    "slug": "question-22",
+    "type": "judge",
+    "stem": "判断：对“城市”这类无序类别特征，直接用 1、2、3 等整数编码（Label Encoding）输入线性模型是合适的，因为整数之间的大小关系不会被模型利用。",
+    "options": [],
+    "answer": ["F"],
+    "explanation": "错误。线性模型（以及 KNN 等基于距离的模型）会把整数编码解读为有序、等间距的数值关系，例如“广州=3”会被认为比“北京=1”大 2 倍距离，引入虚假的序关系。无序类别应使用独热编码、目标编码等方式。树模型对整数编码的容忍度较高，但线性模型必须避免。",
+    "tags": ["特征工程", "编码"],
+    "difficulty": "medium",
+    "chapter": "mod-machine-learning-basic-c-1",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-machine-learning-basic-q-23",
+    "slug": "question-23",
+    "type": "short",
+    "stem": "机器学习中，通过在损失函数中加入惩罚项来限制模型复杂度、防止过拟合的技术统称为什么？（中文三个字）",
+    "options": [],
+    "answer": ["正则化|正则化技术|regularization|Regularization"],
+    "explanation": "答案：正则化（Regularization）。常见形式有 L1（Lasso，产生稀疏解）与 L2（Ridge，权重衰减），目标函数变为 损失 + λ·惩罚项，λ 控制惩罚强度。广义的正则化还包括 Dropout、早停、数据增强等一切限制模型有效容量、提升泛化的手段。",
+    "tags": ["正则化"],
+    "difficulty": "medium",
+    "chapter": "mod-machine-learning-basic-c-2",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-machine-learning-basic-q-24",
+    "slug": "question-24",
+    "type": "short",
+    "stem": "以 ROC 曲线下方面积来衡量二分类模型排序能力的指标，英文缩写是什么？",
+    "options": [],
+    "answer": ["AUC|auc|ROC AUC|AUC-ROC|ROC-AUC"],
+    "explanation": "答案：AUC（Area Under the ROC Curve）。ROC 曲线以假正率 FPR 为横轴、真正率 TPR 为纵轴，随判定阈值变化绘制；AUC 取值 0.5（随机猜测）到 1（完美排序），其概率含义是：随机取一正一负样本，模型给正样本更高分的概率。AUC 对类别不平衡相对稳健、与阈值无关，是风控、广告等排序场景的核心离线指标。",
+    "tags": ["模型评估", "AUC"],
+    "difficulty": "hard",
+    "chapter": "mod-machine-learning-basic-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
   }
 ]
